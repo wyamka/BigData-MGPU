@@ -21,7 +21,7 @@
 ## Технические характеристики:
 ОС: Образ ds_mgpu_Hadoop3+spark_3_4
 
-Hadoop 3.3ю5
+Hadoop 3.3.5
 
 Spark 3.5.1
 
