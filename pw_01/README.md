@@ -12,20 +12,21 @@
 
 3. Pie chart популярных способов оплаты.
 
-###Источник данных: доработанный дата-сет https://www.kaggle.com/datasets/utkalk/large-retail-data-set-for-eda
+## Источник данных: доработанный дата-сет https://www.kaggle.com/datasets/utkalk/large-retail-data-set-for-eda
 
 [Подробнее об изменении dataset'a](./Dataset)
 
+Вес dataset'a, использованного в работе - 412.48 MB
 
 ## Технические характеристики:
 ОС: Образ ds_mgpu_Hadoop3+spark_3_4
 
-Hadoop 3.x
+Hadoop 3.3ю5
 
-Spark 3.4+
+Spark 3.5.1
 
-Python 3.10–3.12
+Python 3.12.2
 
-Jupyter Notebook / JupyterLab
+JupyterLab
 
 Установленные библиотеки: pyspark, pandas, matplotlib, seaborn, numpy
