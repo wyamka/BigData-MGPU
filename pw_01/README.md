@@ -25,8 +25,10 @@ Hadoop 3.3.5
 
 Spark 3.5.1
 
-Python 3.12.2
+Python 3.12.3
 
 JupyterLab
 
 Установленные библиотеки: pyspark, pandas, matplotlib, seaborn, numpy
+
+Отчет о выполнении проекта: Report.md
