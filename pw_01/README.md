@@ -12,7 +12,7 @@
 
 3. Pie chart популярных способов оплаты.
 
-Источник данных: доработанный дата-сет https://www.kaggle.com/datasets/utkalk/large-retail-data-set-for-eda
+###Источник данных: доработанный дата-сет https://www.kaggle.com/datasets/utkalk/large-retail-data-set-for-eda
 
 [Подробнее об изменении dataset'a](./Dataset)
 
