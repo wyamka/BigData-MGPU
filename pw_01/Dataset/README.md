@@ -7,6 +7,6 @@
 
 Для доработки использовался блокнот [retail_go_new.ipynb](./retail_go_new.ipynb)
 
-В результате был получен файл [retail_data_new.csv](./retail_data_new.csv)
+В результате был получен файл [retail_data_new.csv](https://disk.yandex.ru/d/ESuwiRfQgIBf-A)
 
 В дальнейшем именно этот файл был использован для выполнения работы.
