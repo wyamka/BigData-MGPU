@@ -44,7 +44,7 @@
 
 ## Файл pw01_var25.ipynb, содержащий основной код решения проекта
 
-![pw01_var25.ipynb](https://raw.githubusercontent.com/wyamka/BigData-MGPU/blob/main/pw_01/pw01_var25.ipynb)
+![pw01_var25.ipynb](pw01_var25.ipynb)
 
 ### Задание 1. Определить долю каждого метода оплаты.
 
