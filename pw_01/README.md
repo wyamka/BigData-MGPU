@@ -51,17 +51,17 @@ JupyterLab
    ```
 
 2) Создание директории для работы, загрузка данных в HDFS
-	```bash
+```bash
    hdfs dfs -mkdir -p /user/hadoop/pw01_var25
    hdfs dfs -mkdir -p /user/hadoop/pw01_var25/input
    sudo cp /home/devops/Downloads/retail_data_new.csv /tmp/
    sudo chmod 644 /tmp/retail_data_new.csv
    hdfs dfs -put /tmp/retail_data_new.csv /user/hadoop/pw01_var25/input
    hdfs dfs -ls -R /user/hadoop/pw01_var25
-	```
+```
 3. Работа с кодом в JupyterLab
 4. Создание директории для вывода результатов работы и предоставление прав
-	```bash
+```bash
     hdfs dfs -mkdir -p /user/hadoop/pw01_var25/output
     hdfs dfs -chmod -R 777 /user/hadoop/pw01_var25
-	```
+```
