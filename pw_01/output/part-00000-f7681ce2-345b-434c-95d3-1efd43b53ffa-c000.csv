@@ -1,0 +1,4 @@
+payment_method,transaction_count,avg_order_value
+Credit Card,147647,1573.14
+Debit Card,129827,944.45
+Cash,94792,455.32
