@@ -31,4 +31,37 @@ JupyterLab
 
 Установленные библиотеки: pyspark, pandas, matplotlib, seaborn, numpy
 
-Отчет о выполнении проекта: Report.md
+## Структура проекта
+-  [README.md](./README.md)
+- Отчет о выполнении проекта [Report.md](./Report.md)
+- Основной код решения [pw01_var25.ipynb](./pw01_var25.ipynb)
+- Информация о наборе данных [/Dataset](./Dataset/)
+- Скриншоты выполнения работы [/Изображения](./Изображения/)
+- Файлы, полученные в результате выполнения работы в папке [/output](./output/)
+
+## Инструкция по запуску
+
+1) Запуск hadoop и YARN
+
+```bash
+   sudo su - hadoop
+   start-dfs.sh
+   start-yarn.sh
+   jps
+   ```
+
+2) Создание директории для работы, загрузка данных в HDFS
+	```bash
+   hdfs dfs -mkdir -p /user/hadoop/pw01_var25
+   hdfs dfs -mkdir -p /user/hadoop/pw01_var25/input
+   sudo cp /home/devops/Downloads/retail_data_new.csv /tmp/
+   sudo chmod 644 /tmp/retail_data_new.csv
+   hdfs dfs -put /tmp/retail_data_new.csv /user/hadoop/pw01_var25/input
+   hdfs dfs -ls -R /user/hadoop/pw01_var25
+	```
+3. Работа с кодом в JupyterLab
+4. Создание директории для вывода результатов работы и предоставление прав
+	```bash
+    hdfs dfs -mkdir -p /user/hadoop/pw01_var25/output
+    hdfs dfs -chmod -R 777 /user/hadoop/pw01_var25
+	```
