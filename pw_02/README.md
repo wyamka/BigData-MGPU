@@ -21,7 +21,7 @@ graph TD
 
 
     subgraph Polyglot Data Layer
-        API -->|1. Логирование событий платформы| Mongo[(MongoDB Capped Collections)]
+        API -->|1. Каталог контента| Mongo[(MongoDB Capped Collections)]
         API -->|2. SPARQL запросы. Связи актеров и фильмов| Graph[(GraphDB Graph/RDF)]
     end
 
@@ -34,3 +34,13 @@ graph TD
     classDef db fill:#f9f,stroke:#333,stroke-width:2px;
     class Mongo,Graph db;
 ```
+
+### Технологический стек
+
+*ОС:* Ubuntu 22.04 (VM Клон devops_dba_25).
+
+*Контейнеризация:* Docker (версия 28.0.0) и Docker Compose (версия v2.33.0). 
+
+*СУБД*: MongoDB 7.0, GraphDB
+
+*Среда разработки:* JupyterLab (Python 3.10), библиотеки pymongo, Faker.
