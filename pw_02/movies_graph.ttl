@@ -1,0 +1,3024 @@
+@prefix ex: <http://example.org/streaming#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ex:Movie_1 ex:title "Tom and Julia Epic" ;
+    ex:year "2006"^^xsd:integer ;
+    ex:duration "125"^^xsd:integer ;
+    ex:genre "Comedy" ;
+    ex:actor "Tom Hanks" ;
+    ex:actor "Julia Roberts" ;
+    ex:rating "6.7"^^xsd:float .
+
+ex:Movie_2 ex:title "Nicole and Tom Classic" ;
+    ex:year "1974"^^xsd:integer ;
+    ex:duration "128"^^xsd:integer ;
+    ex:genre "Thriller" ;
+    ex:actor "Nicole Kidman" ;
+    ex:actor "Tom Cruise" ;
+    ex:rating "6.7"^^xsd:float .
+
+ex:Movie_3 ex:title "Implemented regional product" ;
+    ex:year "1991"^^xsd:integer ;
+    ex:duration "220"^^xsd:integer ;
+    ex:genre "Drama" ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Brad Pitt" ;
+    ex:rating "5.2"^^xsd:float .
+
+ex:Movie_4 ex:title "Balanced analyzing application" ;
+    ex:year "2016"^^xsd:integer ;
+    ex:duration "84"^^xsd:integer ;
+    ex:genre "Comedy" ;
+    ex:genre "Sci-Fi" ;
+    ex:genre "Action" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:actor "Tom Hanks" ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Nicole Kidman" ;
+    ex:rating "5.8"^^xsd:float .
+
+ex:Movie_5 ex:title "Sharable grid-enabled benchmark" ;
+    ex:year "1988"^^xsd:integer ;
+    ex:duration "234"^^xsd:integer ;
+    ex:genre "Comedy" ;
+    ex:actor "Tom Hanks" ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Nicole Kidman" ;
+    ex:rating "4.6"^^xsd:float .
+
+ex:Movie_6 ex:title "Team-oriented directional circuit" ;
+    ex:year "1980"^^xsd:integer ;
+    ex:duration "83"^^xsd:integer ;
+    ex:genre "Romance" ;
+    ex:actor "Tom Cruise" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Tom Hanks" ;
+    ex:rating "4.7"^^xsd:float .
+
+ex:Movie_7 ex:title "Intuitive web-enabled interface" ;
+    ex:year "2010"^^xsd:integer ;
+    ex:duration "110"^^xsd:integer ;
+    ex:genre "Adventure" ;
+    ex:genre "Comedy" ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Tom Hanks" ;
+    ex:rating "8.4"^^xsd:float .
+
+ex:Movie_8 ex:title "Business-focused global matrices" ;
+    ex:year "2006"^^xsd:integer ;
+    ex:duration "187"^^xsd:integer ;
+    ex:genre "Thriller" ;
+    ex:genre "Drama" ;
+    ex:genre "Comedy" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:actor "Tom Hanks" ;
+    ex:rating "8.4"^^xsd:float .
+
+ex:Movie_9 ex:title "Object-based needs-based system engine" ;
+    ex:year "2017"^^xsd:integer ;
+    ex:duration "114"^^xsd:integer ;
+    ex:genre "Action" ;
+    ex:genre "Sci-Fi" ;
+    ex:genre "Romance" ;
+    ex:actor "Tom Cruise" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:actor "Julia Roberts" ;
+    ex:rating "4.4"^^xsd:float .
+
+ex:Movie_10 ex:title "Operative disintermediate open system" ;
+    ex:year "1993"^^xsd:integer ;
+    ex:duration "221"^^xsd:integer ;
+    ex:genre "Romance" ;
+    ex:genre "Drama" ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Tom Cruise" ;
+    ex:actor "Nicole Kidman" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:rating "4.5"^^xsd:float .
+
+ex:Movie_11 ex:title "Exclusive fresh-thinking solution" ;
+    ex:year "2021"^^xsd:integer ;
+    ex:duration "142"^^xsd:integer ;
+    ex:genre "Adventure" ;
+    ex:genre "Sci-Fi" ;
+    ex:genre "Action" ;
+    ex:actor "Tom Cruise" ;
+    ex:actor "Tom Hanks" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:rating "5.3"^^xsd:float .
+
+ex:Movie_12 ex:title "Compatible homogeneous infrastructure" ;
+    ex:year "2002"^^xsd:integer ;
+    ex:duration "218"^^xsd:integer ;
+    ex:genre "Sci-Fi" ;
+    ex:genre "Drama" ;
+    ex:genre "Romance" ;
+    ex:actor "Nicole Kidman" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:actor "Tom Cruise" ;
+    ex:rating "6.5"^^xsd:float .
+
+ex:Movie_13 ex:title "Public-key uniform installation" ;
+    ex:year "2004"^^xsd:integer ;
+    ex:duration "121"^^xsd:integer ;
+    ex:genre "Drama" ;
+    ex:actor "Tom Hanks" ;
+    ex:actor "Julia Roberts" ;
+    ex:rating "7.0"^^xsd:float .
+
+ex:Movie_14 ex:title "Configurable exuding architecture" ;
+    ex:year "2020"^^xsd:integer ;
+    ex:duration "208"^^xsd:integer ;
+    ex:genre "Action" ;
+    ex:genre "Sci-Fi" ;
+    ex:actor "Nicole Kidman" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:actor "Tom Cruise" ;
+    ex:rating "6.9"^^xsd:float .
+
+ex:Movie_15 ex:title "Mandatory even-keeled paradigm" ;
+    ex:year "2009"^^xsd:integer ;
+    ex:duration "112"^^xsd:integer ;
+    ex:genre "Drama" ;
+    ex:genre "Comedy" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:actor "Nicole Kidman" ;
+    ex:actor "Tom Cruise" ;
+    ex:actor "Tom Hanks" ;
+    ex:rating "8.4"^^xsd:float .
+
+ex:Movie_16 ex:title "Multi-lateral full-range capability" ;
+    ex:year "2005"^^xsd:integer ;
+    ex:duration "223"^^xsd:integer ;
+    ex:genre "Sci-Fi" ;
+    ex:genre "Action" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:actor "Tom Hanks" ;
+    ex:actor "Johnny Depp" ;
+    ex:rating "4.9"^^xsd:float .
+
+ex:Movie_17 ex:title "Devolved modular initiative" ;
+    ex:year "2018"^^xsd:integer ;
+    ex:duration "202"^^xsd:integer ;
+    ex:genre "Sci-Fi" ;
+    ex:genre "Adventure" ;
+    ex:actor "Tom Hanks" ;
+    ex:actor "Tom Cruise" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:actor "Brad Pitt" ;
+    ex:rating "7.4"^^xsd:float .
+
+ex:Movie_18 ex:title "Operative demand-driven parallelism" ;
+    ex:year "2001"^^xsd:integer ;
+    ex:duration "222"^^xsd:integer ;
+    ex:genre "Comedy" ;
+    ex:genre "Sci-Fi" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:actor "Johnny Depp" ;
+    ex:rating "4.7"^^xsd:float .
+
+ex:Movie_19 ex:title "Mandatory system-worthy neural-net" ;
+    ex:year "1982"^^xsd:integer ;
+    ex:duration "148"^^xsd:integer ;
+    ex:genre "Sci-Fi" ;
+    ex:genre "Comedy" ;
+    ex:genre "Drama" ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Tom Cruise" ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:rating "7.6"^^xsd:float .
+
+ex:Movie_20 ex:title "Realigned optimal complexity" ;
+    ex:year "2006"^^xsd:integer ;
+    ex:duration "84"^^xsd:integer ;
+    ex:genre "Thriller" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:actor "Tom Cruise" ;
+    ex:actor "Brad Pitt" ;
+    ex:rating "4.6"^^xsd:float .
+
+ex:Movie_21 ex:title "Cloned systemic open system" ;
+    ex:year "2019"^^xsd:integer ;
+    ex:duration "132"^^xsd:integer ;
+    ex:genre "Adventure" ;
+    ex:genre "Comedy" ;
+    ex:actor "Tom Hanks" ;
+    ex:actor "Johnny Depp" ;
+    ex:rating "7.4"^^xsd:float .
+
+ex:Movie_22 ex:title "Quality-focused optimizing application" ;
+    ex:year "2001"^^xsd:integer ;
+    ex:duration "128"^^xsd:integer ;
+    ex:genre "Drama" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:rating "7.6"^^xsd:float .
+
+ex:Movie_23 ex:title "User-centric hybrid middleware" ;
+    ex:year "2015"^^xsd:integer ;
+    ex:duration "115"^^xsd:integer ;
+    ex:genre "Sci-Fi" ;
+    ex:genre "Action" ;
+    ex:genre "Adventure" ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:actor "Scarlett Johansson" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:rating "8.1"^^xsd:float .
+
+ex:Movie_24 ex:title "Ameliorated didactic Internet solution" ;
+    ex:year "1968"^^xsd:integer ;
+    ex:duration "149"^^xsd:integer ;
+    ex:genre "Comedy" ;
+    ex:genre "Action" ;
+    ex:genre "Drama" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:actor "Tom Hanks" ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:rating "4.1"^^xsd:float .
+
+ex:Movie_25 ex:title "Up-sized regional neural-net" ;
+    ex:year "2012"^^xsd:integer ;
+    ex:duration "87"^^xsd:integer ;
+    ex:genre "Thriller" ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Johnny Depp" ;
+    ex:rating "5.9"^^xsd:float .
+
+ex:Movie_26 ex:title "Networked optimizing migration" ;
+    ex:year "2006"^^xsd:integer ;
+    ex:duration "194"^^xsd:integer ;
+    ex:genre "Drama" ;
+    ex:genre "Thriller" ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:rating "7.9"^^xsd:float .
+
+ex:Movie_27 ex:title "Universal web-enabled interface" ;
+    ex:year "1984"^^xsd:integer ;
+    ex:duration "145"^^xsd:integer ;
+    ex:genre "Comedy" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Nicole Kidman" ;
+    ex:actor "Johnny Depp" ;
+    ex:rating "5.4"^^xsd:float .
+
+ex:Movie_28 ex:title "Multi-layered bifurcated hub" ;
+    ex:year "2004"^^xsd:integer ;
+    ex:duration "132"^^xsd:integer ;
+    ex:genre "Action" ;
+    ex:genre "Romance" ;
+    ex:actor "Nicole Kidman" ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Brad Pitt" ;
+    ex:rating "4.9"^^xsd:float .
+
+ex:Movie_29 ex:title "Up-sized maximized encoding" ;
+    ex:year "2002"^^xsd:integer ;
+    ex:duration "193"^^xsd:integer ;
+    ex:genre "Sci-Fi" ;
+    ex:genre "Thriller" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:actor "Tom Cruise" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:rating "7.1"^^xsd:float .
+
+ex:Movie_30 ex:title "Quality-focused demand-driven hierarchy" ;
+    ex:year "2022"^^xsd:integer ;
+    ex:duration "236"^^xsd:integer ;
+    ex:genre "Action" ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Tom Hanks" ;
+    ex:actor "Tom Cruise" ;
+    ex:rating "5.8"^^xsd:float .
+
+ex:Movie_31 ex:title "Enterprise-wide systematic parallelism" ;
+    ex:year "2022"^^xsd:integer ;
+    ex:duration "104"^^xsd:integer ;
+    ex:genre "Action" ;
+    ex:genre "Adventure" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Tom Hanks" ;
+    ex:rating "8.1"^^xsd:float .
+
+ex:Movie_32 ex:title "Realigned bandwidth-monitored time-frame" ;
+    ex:year "2005"^^xsd:integer ;
+    ex:duration "91"^^xsd:integer ;
+    ex:genre "Action" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:rating "5.7"^^xsd:float .
+
+ex:Movie_33 ex:title "Profound mobile architecture" ;
+    ex:year "1967"^^xsd:integer ;
+    ex:duration "236"^^xsd:integer ;
+    ex:genre "Drama" ;
+    ex:genre "Romance" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:actor "Nicole Kidman" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:rating "8.3"^^xsd:float .
+
+ex:Movie_34 ex:title "Multi-tiered client-server hub" ;
+    ex:year "2008"^^xsd:integer ;
+    ex:duration "215"^^xsd:integer ;
+    ex:genre "Thriller" ;
+    ex:genre "Romance" ;
+    ex:genre "Action" ;
+    ex:actor "Tom Cruise" ;
+    ex:actor "Tom Hanks" ;
+    ex:actor "Nicole Kidman" ;
+    ex:rating "7.4"^^xsd:float .
+
+ex:Movie_35 ex:title "Automated heuristic ability" ;
+    ex:year "2006"^^xsd:integer ;
+    ex:duration "89"^^xsd:integer ;
+    ex:genre "Romance" ;
+    ex:genre "Thriller" ;
+    ex:genre "Drama" ;
+    ex:actor "Nicole Kidman" ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:rating "6.7"^^xsd:float .
+
+ex:Movie_36 ex:title "Adaptive secondary moratorium" ;
+    ex:year "2022"^^xsd:integer ;
+    ex:duration "87"^^xsd:integer ;
+    ex:genre "Action" ;
+    ex:genre "Drama" ;
+    ex:genre "Sci-Fi" ;
+    ex:actor "Tom Cruise" ;
+    ex:actor "Brad Pitt" ;
+    ex:rating "4.7"^^xsd:float .
+
+ex:Movie_37 ex:title "Right-sized fresh-thinking adapter" ;
+    ex:year "1998"^^xsd:integer ;
+    ex:duration "113"^^xsd:integer ;
+    ex:genre "Drama" ;
+    ex:genre "Action" ;
+    ex:genre "Sci-Fi" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:actor "Scarlett Johansson" ;
+    ex:actor "Brad Pitt" ;
+    ex:rating "6.5"^^xsd:float .
+
+ex:Movie_38 ex:title "Organic leadingedge flexibility" ;
+    ex:year "2009"^^xsd:integer ;
+    ex:duration "133"^^xsd:integer ;
+    ex:genre "Romance" ;
+    ex:genre "Action" ;
+    ex:genre "Thriller" ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Nicole Kidman" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:rating "6.1"^^xsd:float .
+
+ex:Movie_39 ex:title "Future-proofed coherent application" ;
+    ex:year "2015"^^xsd:integer ;
+    ex:duration "96"^^xsd:integer ;
+    ex:genre "Sci-Fi" ;
+    ex:genre "Romance" ;
+    ex:genre "Action" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Tom Cruise" ;
+    ex:actor "Johnny Depp" ;
+    ex:rating "4.3"^^xsd:float .
+
+ex:Movie_40 ex:title "Devolved transitional product" ;
+    ex:year "1967"^^xsd:integer ;
+    ex:duration "238"^^xsd:integer ;
+    ex:genre "Comedy" ;
+    ex:genre "Drama" ;
+    ex:actor "Tom Hanks" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Tom Cruise" ;
+    ex:rating "6.8"^^xsd:float .
+
+ex:Movie_41 ex:title "Total tangible encoding" ;
+    ex:year "1977"^^xsd:integer ;
+    ex:duration "183"^^xsd:integer ;
+    ex:genre "Drama" ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Tom Hanks" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:actor "Scarlett Johansson" ;
+    ex:rating "5.8"^^xsd:float .
+
+ex:Movie_42 ex:title "Virtual motivating support" ;
+    ex:year "2018"^^xsd:integer ;
+    ex:duration "135"^^xsd:integer ;
+    ex:genre "Comedy" ;
+    ex:genre "Adventure" ;
+    ex:genre "Romance" ;
+    ex:actor "Tom Cruise" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:actor "Brad Pitt" ;
+    ex:rating "6.8"^^xsd:float .
+
+ex:Movie_43 ex:title "Ergonomic disintermediate website" ;
+    ex:year "2021"^^xsd:integer ;
+    ex:duration "121"^^xsd:integer ;
+    ex:genre "Sci-Fi" ;
+    ex:genre "Romance" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Nicole Kidman" ;
+    ex:rating "5.4"^^xsd:float .
+
+ex:Movie_44 ex:title "Reactive local collaboration" ;
+    ex:year "2012"^^xsd:integer ;
+    ex:duration "88"^^xsd:integer ;
+    ex:genre "Action" ;
+    ex:genre "Drama" ;
+    ex:genre "Romance" ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Nicole Kidman" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:rating "5.7"^^xsd:float .
+
+ex:Movie_45 ex:title "Cloned full-range frame" ;
+    ex:year "2018"^^xsd:integer ;
+    ex:duration "144"^^xsd:integer ;
+    ex:genre "Adventure" ;
+    ex:genre "Comedy" ;
+    ex:genre "Action" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:rating "5.6"^^xsd:float .
+
+ex:Movie_46 ex:title "Ameliorated asynchronous intranet" ;
+    ex:year "2008"^^xsd:integer ;
+    ex:duration "106"^^xsd:integer ;
+    ex:genre "Drama" ;
+    ex:genre "Action" ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Julia Roberts" ;
+    ex:rating "7.1"^^xsd:float .
+
+ex:Movie_47 ex:title "Multi-channeled motivating challenge" ;
+    ex:year "2013"^^xsd:integer ;
+    ex:duration "122"^^xsd:integer ;
+    ex:genre "Romance" ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Tom Cruise" ;
+    ex:actor "Julia Roberts" ;
+    ex:rating "6.3"^^xsd:float .
+
+ex:Movie_48 ex:title "Profound impactful contingency" ;
+    ex:year "1986"^^xsd:integer ;
+    ex:duration "99"^^xsd:integer ;
+    ex:genre "Comedy" ;
+    ex:genre "Sci-Fi" ;
+    ex:actor "Tom Hanks" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:rating "5.4"^^xsd:float .
+
+ex:Movie_49 ex:title "Distributed dedicated policy" ;
+    ex:year "2013"^^xsd:integer ;
+    ex:duration "196"^^xsd:integer ;
+    ex:genre "Thriller" ;
+    ex:genre "Drama" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:actor "Tom Hanks" ;
+    ex:actor "Julia Roberts" ;
+    ex:rating "5.5"^^xsd:float .
+
+ex:Movie_50 ex:title "Open-architected uniform access" ;
+    ex:year "1994"^^xsd:integer ;
+    ex:duration "216"^^xsd:integer ;
+    ex:genre "Action" ;
+    ex:genre "Drama" ;
+    ex:genre "Adventure" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Nicole Kidman" ;
+    ex:actor "Brad Pitt" ;
+    ex:rating "7.3"^^xsd:float .
+
+ex:Movie_51 ex:title "Future-proofed methodical Internet solution" ;
+    ex:year "2006"^^xsd:integer ;
+    ex:duration "137"^^xsd:integer ;
+    ex:genre "Action" ;
+    ex:actor "Tom Hanks" ;
+    ex:actor "Tom Cruise" ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Johnny Depp" ;
+    ex:rating "5.7"^^xsd:float .
+
+ex:Movie_52 ex:title "Persistent well-modulated core" ;
+    ex:year "1961"^^xsd:integer ;
+    ex:duration "116"^^xsd:integer ;
+    ex:genre "Adventure" ;
+    ex:genre "Drama" ;
+    ex:genre "Sci-Fi" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:actor "Tom Cruise" ;
+    ex:rating "4.5"^^xsd:float .
+
+ex:Movie_53 ex:title "Team-oriented incremental function" ;
+    ex:year "2001"^^xsd:integer ;
+    ex:duration "207"^^xsd:integer ;
+    ex:genre "Thriller" ;
+    ex:genre "Comedy" ;
+    ex:genre "Adventure" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:actor "Johnny Depp" ;
+    ex:rating "8.5"^^xsd:float .
+
+ex:Movie_54 ex:title "Synchronized next generation software" ;
+    ex:year "2013"^^xsd:integer ;
+    ex:duration "234"^^xsd:integer ;
+    ex:genre "Thriller" ;
+    ex:genre "Comedy" ;
+    ex:actor "Nicole Kidman" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:actor "Tom Hanks" ;
+    ex:rating "5.2"^^xsd:float .
+
+ex:Movie_55 ex:title "Public-key neutral definition" ;
+    ex:year "2008"^^xsd:integer ;
+    ex:duration "191"^^xsd:integer ;
+    ex:genre "Drama" ;
+    ex:genre "Romance" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:actor "Tom Hanks" ;
+    ex:rating "8.1"^^xsd:float .
+
+ex:Movie_56 ex:title "Front-line bandwidth-monitored alliance" ;
+    ex:year "2013"^^xsd:integer ;
+    ex:duration "86"^^xsd:integer ;
+    ex:genre "Comedy" ;
+    ex:genre "Thriller" ;
+    ex:genre "Drama" ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:rating "4.6"^^xsd:float .
+
+ex:Movie_57 ex:title "Organized disintermediate utilization" ;
+    ex:year "1978"^^xsd:integer ;
+    ex:duration "130"^^xsd:integer ;
+    ex:genre "Adventure" ;
+    ex:genre "Action" ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Tom Cruise" ;
+    ex:rating "5.6"^^xsd:float .
+
+ex:Movie_58 ex:title "Cross-platform directional open architecture" ;
+    ex:year "2012"^^xsd:integer ;
+    ex:duration "185"^^xsd:integer ;
+    ex:genre "Comedy" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:actor "Tom Hanks" ;
+    ex:actor "Julia Roberts" ;
+    ex:rating "6.3"^^xsd:float .
+
+ex:Movie_59 ex:title "Re-engineered hybrid benchmark" ;
+    ex:year "2023"^^xsd:integer ;
+    ex:duration "225"^^xsd:integer ;
+    ex:genre "Action" ;
+    ex:genre "Adventure" ;
+    ex:genre "Drama" ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Johnny Depp" ;
+    ex:rating "8.5"^^xsd:float .
+
+ex:Movie_60 ex:title "Progressive reciprocal instruction set" ;
+    ex:year "2022"^^xsd:integer ;
+    ex:duration "208"^^xsd:integer ;
+    ex:genre "Thriller" ;
+    ex:genre "Sci-Fi" ;
+    ex:genre "Romance" ;
+    ex:actor "Tom Cruise" ;
+    ex:actor "Nicole Kidman" ;
+    ex:rating "7.5"^^xsd:float .
+
+ex:Movie_61 ex:title "Progressive composite Local Area Network" ;
+    ex:year "1970"^^xsd:integer ;
+    ex:duration "123"^^xsd:integer ;
+    ex:genre "Drama" ;
+    ex:genre "Action" ;
+    ex:genre "Comedy" ;
+    ex:actor "Tom Hanks" ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Nicole Kidman" ;
+    ex:rating "5.3"^^xsd:float .
+
+ex:Movie_62 ex:title "Right-sized local orchestration" ;
+    ex:year "1992"^^xsd:integer ;
+    ex:duration "88"^^xsd:integer ;
+    ex:genre "Action" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Nicole Kidman" ;
+    ex:rating "6.4"^^xsd:float .
+
+ex:Movie_63 ex:title "Digitized optimal access" ;
+    ex:year "2007"^^xsd:integer ;
+    ex:duration "214"^^xsd:integer ;
+    ex:genre "Action" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:actor "Brad Pitt" ;
+    ex:rating "6.8"^^xsd:float .
+
+ex:Movie_64 ex:title "Inverse foreground info-mediaries" ;
+    ex:year "2013"^^xsd:integer ;
+    ex:duration "205"^^xsd:integer ;
+    ex:genre "Thriller" ;
+    ex:genre "Adventure" ;
+    ex:genre "Sci-Fi" ;
+    ex:actor "Tom Cruise" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:rating "4.5"^^xsd:float .
+
+ex:Movie_65 ex:title "Down-sized 6thgeneration neural-net" ;
+    ex:year "2000"^^xsd:integer ;
+    ex:duration "106"^^xsd:integer ;
+    ex:genre "Drama" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Nicole Kidman" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:rating "5.6"^^xsd:float .
+
+ex:Movie_66 ex:title "Proactive next generation attitude" ;
+    ex:year "2003"^^xsd:integer ;
+    ex:duration "111"^^xsd:integer ;
+    ex:genre "Thriller" ;
+    ex:genre "Adventure" ;
+    ex:genre "Action" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:actor "Tom Cruise" ;
+    ex:actor "Brad Pitt" ;
+    ex:rating "7.2"^^xsd:float .
+
+ex:Movie_67 ex:title "Exclusive holistic implementation" ;
+    ex:year "2001"^^xsd:integer ;
+    ex:duration "195"^^xsd:integer ;
+    ex:genre "Sci-Fi" ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Nicole Kidman" ;
+    ex:rating "4.5"^^xsd:float .
+
+ex:Movie_68 ex:title "Managed object-oriented website" ;
+    ex:year "1990"^^xsd:integer ;
+    ex:duration "145"^^xsd:integer ;
+    ex:genre "Thriller" ;
+    ex:genre "Romance" ;
+    ex:genre "Comedy" ;
+    ex:actor "Tom Cruise" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Brad Pitt" ;
+    ex:rating "8.8"^^xsd:float .
+
+ex:Movie_69 ex:title "Stand-alone discrete Local Area Network" ;
+    ex:year "2020"^^xsd:integer ;
+    ex:duration "239"^^xsd:integer ;
+    ex:genre "Comedy" ;
+    ex:genre "Action" ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Tom Cruise" ;
+    ex:rating "4.8"^^xsd:float .
+
+ex:Movie_70 ex:title "Multi-tiered bi-directional project" ;
+    ex:year "1976"^^xsd:integer ;
+    ex:duration "186"^^xsd:integer ;
+    ex:genre "Romance" ;
+    ex:genre "Comedy" ;
+    ex:genre "Action" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Brad Pitt" ;
+    ex:rating "8.2"^^xsd:float .
+
+ex:Movie_71 ex:title "Function-based 6thgeneration artificial intelligence" ;
+    ex:year "2007"^^xsd:integer ;
+    ex:duration "200"^^xsd:integer ;
+    ex:genre "Drama" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:actor "Tom Cruise" ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Julia Roberts" ;
+    ex:rating "8.5"^^xsd:float .
+
+ex:Movie_72 ex:title "Future-proofed multi-state migration" ;
+    ex:year "1973"^^xsd:integer ;
+    ex:duration "149"^^xsd:integer ;
+    ex:genre "Thriller" ;
+    ex:actor "Tom Hanks" ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Nicole Kidman" ;
+    ex:actor "Tom Cruise" ;
+    ex:rating "4.4"^^xsd:float .
+
+ex:Movie_73 ex:title "Compatible 5thgeneration paradigm" ;
+    ex:year "2010"^^xsd:integer ;
+    ex:duration "209"^^xsd:integer ;
+    ex:genre "Sci-Fi" ;
+    ex:genre "Drama" ;
+    ex:genre "Romance" ;
+    ex:actor "Nicole Kidman" ;
+    ex:actor "Tom Cruise" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:actor "Julia Roberts" ;
+    ex:rating "8.2"^^xsd:float .
+
+ex:Movie_74 ex:title "Open-architected neutral knowledgebase" ;
+    ex:year "2012"^^xsd:integer ;
+    ex:duration "123"^^xsd:integer ;
+    ex:genre "Action" ;
+    ex:genre "Adventure" ;
+    ex:genre "Sci-Fi" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:actor "Tom Cruise" ;
+    ex:rating "7.9"^^xsd:float .
+
+ex:Movie_75 ex:title "Fully-configurable didactic hub" ;
+    ex:year "1986"^^xsd:integer ;
+    ex:duration "215"^^xsd:integer ;
+    ex:genre "Thriller" ;
+    ex:genre "Action" ;
+    ex:actor "Tom Cruise" ;
+    ex:actor "Nicole Kidman" ;
+    ex:rating "6.0"^^xsd:float .
+
+ex:Movie_76 ex:title "Mandatory directional Graphical User Interface" ;
+    ex:year "2018"^^xsd:integer ;
+    ex:duration "195"^^xsd:integer ;
+    ex:genre "Sci-Fi" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Tom Cruise" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:rating "5.7"^^xsd:float .
+
+ex:Movie_77 ex:title "Organized explicit structure" ;
+    ex:year "1992"^^xsd:integer ;
+    ex:duration "144"^^xsd:integer ;
+    ex:genre "Action" ;
+    ex:genre "Sci-Fi" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:actor "Tom Cruise" ;
+    ex:rating "8.3"^^xsd:float .
+
+ex:Movie_78 ex:title "Self-enabling fresh-thinking collaboration" ;
+    ex:year "1995"^^xsd:integer ;
+    ex:duration "125"^^xsd:integer ;
+    ex:genre "Action" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Nicole Kidman" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:rating "7.7"^^xsd:float .
+
+ex:Movie_79 ex:title "Open-source stable conglomeration" ;
+    ex:year "2003"^^xsd:integer ;
+    ex:duration "112"^^xsd:integer ;
+    ex:genre "Action" ;
+    ex:genre "Sci-Fi" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:actor "Julia Roberts" ;
+    ex:rating "6.9"^^xsd:float .
+
+ex:Movie_80 ex:title "Re-contextualized optimizing software" ;
+    ex:year "2020"^^xsd:integer ;
+    ex:duration "219"^^xsd:integer ;
+    ex:genre "Action" ;
+    ex:genre "Comedy" ;
+    ex:genre "Sci-Fi" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:actor "Scarlett Johansson" ;
+    ex:actor "Tom Hanks" ;
+    ex:actor "Tom Cruise" ;
+    ex:rating "8.4"^^xsd:float .
+
+ex:Movie_81 ex:title "Compatible global adapter" ;
+    ex:year "1989"^^xsd:integer ;
+    ex:duration "106"^^xsd:integer ;
+    ex:genre "Comedy" ;
+    ex:genre "Action" ;
+    ex:actor "Tom Hanks" ;
+    ex:actor "Brad Pitt" ;
+    ex:rating "7.6"^^xsd:float .
+
+ex:Movie_82 ex:title "Re-contextualized tangible circuit" ;
+    ex:year "2016"^^xsd:integer ;
+    ex:duration "216"^^xsd:integer ;
+    ex:genre "Adventure" ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Tom Cruise" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:rating "4.9"^^xsd:float .
+
+ex:Movie_83 ex:title "Managed optimizing model" ;
+    ex:year "2016"^^xsd:integer ;
+    ex:duration "87"^^xsd:integer ;
+    ex:genre "Romance" ;
+    ex:genre "Action" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Johnny Depp" ;
+    ex:rating "8.4"^^xsd:float .
+
+ex:Movie_84 ex:title "Fundamental national project" ;
+    ex:year "1976"^^xsd:integer ;
+    ex:duration "127"^^xsd:integer ;
+    ex:genre "Comedy" ;
+    ex:genre "Action" ;
+    ex:genre "Drama" ;
+    ex:actor "Nicole Kidman" ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Tom Hanks" ;
+    ex:actor "Johnny Depp" ;
+    ex:rating "8.0"^^xsd:float .
+
+ex:Movie_85 ex:title "Synergistic incremental instruction set" ;
+    ex:year "2012"^^xsd:integer ;
+    ex:duration "137"^^xsd:integer ;
+    ex:genre "Romance" ;
+    ex:genre "Drama" ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Julia Roberts" ;
+    ex:rating "6.2"^^xsd:float .
+
+ex:Movie_86 ex:title "De-engineered incremental concept" ;
+    ex:year "1970"^^xsd:integer ;
+    ex:duration "208"^^xsd:integer ;
+    ex:genre "Drama" ;
+    ex:genre "Comedy" ;
+    ex:actor "Tom Cruise" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:actor "Brad Pitt" ;
+    ex:rating "7.1"^^xsd:float .
+
+ex:Movie_87 ex:title "Innovative context-sensitive approach" ;
+    ex:year "2025"^^xsd:integer ;
+    ex:duration "195"^^xsd:integer ;
+    ex:genre "Sci-Fi" ;
+    ex:genre "Adventure" ;
+    ex:genre "Drama" ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:rating "8.0"^^xsd:float .
+
+ex:Movie_88 ex:title "Reduced demand-driven budgetary management" ;
+    ex:year "2000"^^xsd:integer ;
+    ex:duration "150"^^xsd:integer ;
+    ex:genre "Sci-Fi" ;
+    ex:genre "Action" ;
+    ex:genre "Drama" ;
+    ex:actor "Tom Hanks" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:rating "7.3"^^xsd:float .
+
+ex:Movie_89 ex:title "Horizontal uniform flexibility" ;
+    ex:year "2000"^^xsd:integer ;
+    ex:duration "199"^^xsd:integer ;
+    ex:genre "Romance" ;
+    ex:genre "Comedy" ;
+    ex:genre "Adventure" ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Julia Roberts" ;
+    ex:rating "7.5"^^xsd:float .
+
+ex:Movie_90 ex:title "Synergistic regional system engine" ;
+    ex:year "2009"^^xsd:integer ;
+    ex:duration "97"^^xsd:integer ;
+    ex:genre "Adventure" ;
+    ex:genre "Drama" ;
+    ex:genre "Romance" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:actor "Tom Cruise" ;
+    ex:actor "Nicole Kidman" ;
+    ex:rating "7.6"^^xsd:float .
+
+ex:Movie_91 ex:title "Managed local forecast" ;
+    ex:year "2013"^^xsd:integer ;
+    ex:duration "238"^^xsd:integer ;
+    ex:genre "Romance" ;
+    ex:actor "Tom Cruise" ;
+    ex:actor "Nicole Kidman" ;
+    ex:actor "Julia Roberts" ;
+    ex:rating "7.8"^^xsd:float .
+
+ex:Movie_92 ex:title "Inverse zero-defect portal" ;
+    ex:year "1984"^^xsd:integer ;
+    ex:duration "148"^^xsd:integer ;
+    ex:genre "Thriller" ;
+    ex:genre "Action" ;
+    ex:genre "Romance" ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Nicole Kidman" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:rating "4.5"^^xsd:float .
+
+ex:Movie_93 ex:title "Reactive systematic capability" ;
+    ex:year "2016"^^xsd:integer ;
+    ex:duration "96"^^xsd:integer ;
+    ex:genre "Sci-Fi" ;
+    ex:genre "Comedy" ;
+    ex:genre "Drama" ;
+    ex:actor "Tom Hanks" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:rating "6.5"^^xsd:float .
+
+ex:Movie_94 ex:title "Centralized even-keeled open system" ;
+    ex:year "2004"^^xsd:integer ;
+    ex:duration "224"^^xsd:integer ;
+    ex:genre "Drama" ;
+    ex:genre "Romance" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Brad Pitt" ;
+    ex:rating "5.4"^^xsd:float .
+
+ex:Movie_95 ex:title "Public-key directional access" ;
+    ex:year "1990"^^xsd:integer ;
+    ex:duration "104"^^xsd:integer ;
+    ex:genre "Action" ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:rating "6.0"^^xsd:float .
+
+ex:Movie_96 ex:title "Reduced tertiary open architecture" ;
+    ex:year "2009"^^xsd:integer ;
+    ex:duration "139"^^xsd:integer ;
+    ex:genre "Drama" ;
+    ex:genre "Comedy" ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Tom Cruise" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:actor "Johnny Depp" ;
+    ex:rating "4.0"^^xsd:float .
+
+ex:Movie_97 ex:title "Fully-configurable needs-based standardization" ;
+    ex:year "1968"^^xsd:integer ;
+    ex:duration "111"^^xsd:integer ;
+    ex:genre "Romance" ;
+    ex:actor "Tom Cruise" ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Nicole Kidman" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:rating "7.9"^^xsd:float .
+
+ex:Movie_98 ex:title "Networked 24/7 middleware" ;
+    ex:year "2017"^^xsd:integer ;
+    ex:duration "204"^^xsd:integer ;
+    ex:genre "Drama" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:actor "Scarlett Johansson" ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Julia Roberts" ;
+    ex:rating "7.7"^^xsd:float .
+
+ex:Movie_99 ex:title "Vision-oriented client-driven monitoring" ;
+    ex:year "2018"^^xsd:integer ;
+    ex:duration "236"^^xsd:integer ;
+    ex:genre "Adventure" ;
+    ex:genre "Thriller" ;
+    ex:actor "Tom Cruise" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Nicole Kidman" ;
+    ex:rating "7.9"^^xsd:float .
+
+ex:Movie_100 ex:title "Diverse fresh-thinking process improvement" ;
+    ex:year "2021"^^xsd:integer ;
+    ex:duration "144"^^xsd:integer ;
+    ex:genre "Comedy" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:actor "Nicole Kidman" ;
+    ex:actor "Julia Roberts" ;
+    ex:rating "6.1"^^xsd:float .
+
+ex:Movie_101 ex:title "Seamless needs-based database" ;
+    ex:year "1987"^^xsd:integer ;
+    ex:duration "199"^^xsd:integer ;
+    ex:genre "Thriller" ;
+    ex:actor "Tom Hanks" ;
+    ex:actor "Nicole Kidman" ;
+    ex:rating "4.9"^^xsd:float .
+
+ex:Movie_102 ex:title "Quality-focused fault-tolerant model" ;
+    ex:year "2003"^^xsd:integer ;
+    ex:duration "238"^^xsd:integer ;
+    ex:genre "Action" ;
+    ex:genre "Comedy" ;
+    ex:genre "Adventure" ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:rating "4.0"^^xsd:float .
+
+ex:Movie_103 ex:title "Ergonomic transitional collaboration" ;
+    ex:year "2016"^^xsd:integer ;
+    ex:duration "126"^^xsd:integer ;
+    ex:genre "Romance" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:actor "Nicole Kidman" ;
+    ex:actor "Brad Pitt" ;
+    ex:rating "7.4"^^xsd:float .
+
+ex:Movie_104 ex:title "Streamlined composite solution" ;
+    ex:year "2024"^^xsd:integer ;
+    ex:duration "215"^^xsd:integer ;
+    ex:genre "Romance" ;
+    ex:genre "Adventure" ;
+    ex:actor "Tom Cruise" ;
+    ex:actor "Nicole Kidman" ;
+    ex:actor "Johnny Depp" ;
+    ex:rating "8.1"^^xsd:float .
+
+ex:Movie_105 ex:title "De-engineered discrete approach" ;
+    ex:year "1987"^^xsd:integer ;
+    ex:duration "99"^^xsd:integer ;
+    ex:genre "Thriller" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:actor "Johnny Depp" ;
+    ex:rating "5.9"^^xsd:float .
+
+ex:Movie_106 ex:title "Integrated regional forecast" ;
+    ex:year "2025"^^xsd:integer ;
+    ex:duration "215"^^xsd:integer ;
+    ex:genre "Sci-Fi" ;
+    ex:genre "Comedy" ;
+    ex:genre "Drama" ;
+    ex:actor "Tom Hanks" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:rating "4.5"^^xsd:float .
+
+ex:Movie_107 ex:title "Persevering global matrices" ;
+    ex:year "2004"^^xsd:integer ;
+    ex:duration "146"^^xsd:integer ;
+    ex:genre "Thriller" ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Tom Hanks" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:rating "4.7"^^xsd:float .
+
+ex:Movie_108 ex:title "Triple-buffered zero-defect system engine" ;
+    ex:year "2002"^^xsd:integer ;
+    ex:duration "213"^^xsd:integer ;
+    ex:genre "Action" ;
+    ex:genre "Comedy" ;
+    ex:actor "Tom Hanks" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:actor "Julia Roberts" ;
+    ex:rating "4.9"^^xsd:float .
+
+ex:Movie_109 ex:title "Triple-buffered impactful open system" ;
+    ex:year "1977"^^xsd:integer ;
+    ex:duration "200"^^xsd:integer ;
+    ex:genre "Romance" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Nicole Kidman" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:rating "7.4"^^xsd:float .
+
+ex:Movie_110 ex:title "Open-architected directional support" ;
+    ex:year "2014"^^xsd:integer ;
+    ex:duration "191"^^xsd:integer ;
+    ex:genre "Sci-Fi" ;
+    ex:genre "Drama" ;
+    ex:genre "Action" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:rating "6.1"^^xsd:float .
+
+ex:Movie_111 ex:title "Vision-oriented user-facing hub" ;
+    ex:year "2022"^^xsd:integer ;
+    ex:duration "86"^^xsd:integer ;
+    ex:genre "Comedy" ;
+    ex:actor "Nicole Kidman" ;
+    ex:actor "Tom Hanks" ;
+    ex:rating "6.9"^^xsd:float .
+
+ex:Movie_112 ex:title "Stand-alone disintermediate paradigm" ;
+    ex:year "2000"^^xsd:integer ;
+    ex:duration "145"^^xsd:integer ;
+    ex:genre "Action" ;
+    ex:actor "Tom Hanks" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:actor "Scarlett Johansson" ;
+    ex:rating "8.1"^^xsd:float .
+
+ex:Movie_113 ex:title "Progressive national function" ;
+    ex:year "2019"^^xsd:integer ;
+    ex:duration "144"^^xsd:integer ;
+    ex:genre "Comedy" ;
+    ex:genre "Adventure" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:actor "Johnny Depp" ;
+    ex:rating "4.3"^^xsd:float .
+
+ex:Movie_114 ex:title "Organic cohesive knowledge user" ;
+    ex:year "2023"^^xsd:integer ;
+    ex:duration "189"^^xsd:integer ;
+    ex:genre "Drama" ;
+    ex:genre "Thriller" ;
+    ex:genre "Action" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:actor "Brad Pitt" ;
+    ex:rating "7.5"^^xsd:float .
+
+ex:Movie_115 ex:title "Switchable analyzing knowledge user" ;
+    ex:year "2011"^^xsd:integer ;
+    ex:duration "135"^^xsd:integer ;
+    ex:genre "Sci-Fi" ;
+    ex:genre "Drama" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Julia Roberts" ;
+    ex:rating "5.3"^^xsd:float .
+
+ex:Movie_116 ex:title "Pre-emptive grid-enabled conglomeration" ;
+    ex:year "2018"^^xsd:integer ;
+    ex:duration "110"^^xsd:integer ;
+    ex:genre "Drama" ;
+    ex:genre "Action" ;
+    ex:genre "Comedy" ;
+    ex:actor "Tom Cruise" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:actor "Tom Hanks" ;
+    ex:rating "7.0"^^xsd:float .
+
+ex:Movie_117 ex:title "Balanced fault-tolerant Graphic Interface" ;
+    ex:year "2011"^^xsd:integer ;
+    ex:duration "109"^^xsd:integer ;
+    ex:genre "Adventure" ;
+    ex:genre "Comedy" ;
+    ex:genre "Drama" ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Tom Hanks" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:actor "Johnny Depp" ;
+    ex:rating "6.7"^^xsd:float .
+
+ex:Movie_118 ex:title "Pre-emptive impactful Local Area Network" ;
+    ex:year "2013"^^xsd:integer ;
+    ex:duration "144"^^xsd:integer ;
+    ex:genre "Sci-Fi" ;
+    ex:actor "Tom Cruise" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:rating "7.4"^^xsd:float .
+
+ex:Movie_119 ex:title "Persistent leadingedge Local Area Network" ;
+    ex:year "2009"^^xsd:integer ;
+    ex:duration "127"^^xsd:integer ;
+    ex:genre "Thriller" ;
+    ex:genre "Adventure" ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Nicole Kidman" ;
+    ex:actor "Tom Cruise" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:rating "7.9"^^xsd:float .
+
+ex:Movie_120 ex:title "Centralized coherent emulation" ;
+    ex:year "2017"^^xsd:integer ;
+    ex:duration "119"^^xsd:integer ;
+    ex:genre "Action" ;
+    ex:genre "Comedy" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:actor "Tom Hanks" ;
+    ex:rating "5.7"^^xsd:float .
+
+ex:Movie_121 ex:title "Down-sized client-server migration" ;
+    ex:year "2008"^^xsd:integer ;
+    ex:duration "145"^^xsd:integer ;
+    ex:genre "Action" ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:actor "Tom Cruise" ;
+    ex:rating "8.4"^^xsd:float .
+
+ex:Movie_122 ex:title "Right-sized mission-critical analyzer" ;
+    ex:year "1999"^^xsd:integer ;
+    ex:duration "227"^^xsd:integer ;
+    ex:genre "Drama" ;
+    ex:genre "Thriller" ;
+    ex:genre "Sci-Fi" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:actor "Nicole Kidman" ;
+    ex:rating "6.7"^^xsd:float .
+
+ex:Movie_123 ex:title "Enhanced 6thgeneration definition" ;
+    ex:year "2001"^^xsd:integer ;
+    ex:duration "181"^^xsd:integer ;
+    ex:genre "Action" ;
+    ex:genre "Thriller" ;
+    ex:actor "Tom Cruise" ;
+    ex:actor "Nicole Kidman" ;
+    ex:rating "4.4"^^xsd:float .
+
+ex:Movie_124 ex:title "Progressive asymmetric pricing structure" ;
+    ex:year "2007"^^xsd:integer ;
+    ex:duration "234"^^xsd:integer ;
+    ex:genre "Action" ;
+    ex:genre "Drama" ;
+    ex:genre "Thriller" ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:actor "Tom Cruise" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:rating "8.2"^^xsd:float .
+
+ex:Movie_125 ex:title "Upgradable upward-trending concept" ;
+    ex:year "2008"^^xsd:integer ;
+    ex:duration "230"^^xsd:integer ;
+    ex:genre "Romance" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Nicole Kidman" ;
+    ex:rating "5.6"^^xsd:float .
+
+ex:Movie_126 ex:title "Synergistic global adapter" ;
+    ex:year "2014"^^xsd:integer ;
+    ex:duration "184"^^xsd:integer ;
+    ex:genre "Sci-Fi" ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:actor "Johnny Depp" ;
+    ex:rating "4.0"^^xsd:float .
+
+ex:Movie_127 ex:title "Cloned disintermediate approach" ;
+    ex:year "2009"^^xsd:integer ;
+    ex:duration "99"^^xsd:integer ;
+    ex:genre "Romance" ;
+    ex:actor "Nicole Kidman" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:rating "5.5"^^xsd:float .
+
+ex:Movie_128 ex:title "Secured analyzing functionalities" ;
+    ex:year "1982"^^xsd:integer ;
+    ex:duration "216"^^xsd:integer ;
+    ex:genre "Sci-Fi" ;
+    ex:genre "Romance" ;
+    ex:genre "Drama" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:rating "8.3"^^xsd:float .
+
+ex:Movie_129 ex:title "Compatible mobile middleware" ;
+    ex:year "1978"^^xsd:integer ;
+    ex:duration "219"^^xsd:integer ;
+    ex:genre "Romance" ;
+    ex:actor "Nicole Kidman" ;
+    ex:actor "Tom Cruise" ;
+    ex:rating "7.6"^^xsd:float .
+
+ex:Movie_130 ex:title "Inverse optimizing functionalities" ;
+    ex:year "2009"^^xsd:integer ;
+    ex:duration "138"^^xsd:integer ;
+    ex:genre "Drama" ;
+    ex:genre "Thriller" ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:actor "Nicole Kidman" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:rating "6.0"^^xsd:float .
+
+ex:Movie_131 ex:title "Function-based full-range array" ;
+    ex:year "1970"^^xsd:integer ;
+    ex:duration "193"^^xsd:integer ;
+    ex:genre "Drama" ;
+    ex:actor "Tom Cruise" ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Tom Hanks" ;
+    ex:rating "6.2"^^xsd:float .
+
+ex:Movie_132 ex:title "Total exuding firmware" ;
+    ex:year "1976"^^xsd:integer ;
+    ex:duration "223"^^xsd:integer ;
+    ex:genre "Comedy" ;
+    ex:actor "Nicole Kidman" ;
+    ex:actor "Tom Hanks" ;
+    ex:actor "Tom Cruise" ;
+    ex:rating "6.9"^^xsd:float .
+
+ex:Movie_133 ex:title "Realigned human-resource firmware" ;
+    ex:year "2021"^^xsd:integer ;
+    ex:duration "124"^^xsd:integer ;
+    ex:genre "Drama" ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:actor "Nicole Kidman" ;
+    ex:rating "5.8"^^xsd:float .
+
+ex:Movie_134 ex:title "Fundamental well-modulated functionalities" ;
+    ex:year "1994"^^xsd:integer ;
+    ex:duration "235"^^xsd:integer ;
+    ex:genre "Drama" ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Tom Hanks" ;
+    ex:actor "Nicole Kidman" ;
+    ex:actor "Johnny Depp" ;
+    ex:rating "6.0"^^xsd:float .
+
+ex:Movie_135 ex:title "Exclusive coherent extranet" ;
+    ex:year "2020"^^xsd:integer ;
+    ex:duration "80"^^xsd:integer ;
+    ex:genre "Romance" ;
+    ex:genre "Drama" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Tom Hanks" ;
+    ex:rating "8.1"^^xsd:float .
+
+ex:Movie_136 ex:title "Organized scalable knowledge user" ;
+    ex:year "1993"^^xsd:integer ;
+    ex:duration "82"^^xsd:integer ;
+    ex:genre "Drama" ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:rating "6.2"^^xsd:float .
+
+ex:Movie_137 ex:title "Up-sized 4thgeneration core" ;
+    ex:year "2023"^^xsd:integer ;
+    ex:duration "100"^^xsd:integer ;
+    ex:genre "Thriller" ;
+    ex:genre "Comedy" ;
+    ex:genre "Drama" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Brad Pitt" ;
+    ex:rating "6.8"^^xsd:float .
+
+ex:Movie_138 ex:title "Operative dynamic database" ;
+    ex:year "2015"^^xsd:integer ;
+    ex:duration "215"^^xsd:integer ;
+    ex:genre "Action" ;
+    ex:genre "Sci-Fi" ;
+    ex:genre "Romance" ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:actor "Tom Cruise" ;
+    ex:actor "Julia Roberts" ;
+    ex:rating "4.8"^^xsd:float .
+
+ex:Movie_139 ex:title "Organic analyzing policy" ;
+    ex:year "1978"^^xsd:integer ;
+    ex:duration "219"^^xsd:integer ;
+    ex:genre "Drama" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:rating "7.0"^^xsd:float .
+
+ex:Movie_140 ex:title "Synchronized dynamic algorithm" ;
+    ex:year "2006"^^xsd:integer ;
+    ex:duration "199"^^xsd:integer ;
+    ex:genre "Comedy" ;
+    ex:genre "Action" ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Tom Cruise" ;
+    ex:rating "6.0"^^xsd:float .
+
+ex:Movie_141 ex:title "Cross-group intangible parallelism" ;
+    ex:year "1993"^^xsd:integer ;
+    ex:duration "103"^^xsd:integer ;
+    ex:genre "Sci-Fi" ;
+    ex:genre "Adventure" ;
+    ex:genre "Action" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Tom Cruise" ;
+    ex:rating "6.9"^^xsd:float .
+
+ex:Movie_142 ex:title "Optimized dedicated help-desk" ;
+    ex:year "1991"^^xsd:integer ;
+    ex:duration "117"^^xsd:integer ;
+    ex:genre "Drama" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Nicole Kidman" ;
+    ex:rating "7.9"^^xsd:float .
+
+ex:Movie_143 ex:title "Persevering foreground leverage" ;
+    ex:year "2013"^^xsd:integer ;
+    ex:duration "210"^^xsd:integer ;
+    ex:genre "Drama" ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Nicole Kidman" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:rating "4.8"^^xsd:float .
+
+ex:Movie_144 ex:title "Fundamental client-server hardware" ;
+    ex:year "2019"^^xsd:integer ;
+    ex:duration "220"^^xsd:integer ;
+    ex:genre "Thriller" ;
+    ex:genre "Action" ;
+    ex:actor "Tom Hanks" ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:rating "4.6"^^xsd:float .
+
+ex:Movie_145 ex:title "Realigned zero tolerance middleware" ;
+    ex:year "1999"^^xsd:integer ;
+    ex:duration "199"^^xsd:integer ;
+    ex:genre "Sci-Fi" ;
+    ex:genre "Drama" ;
+    ex:genre "Comedy" ;
+    ex:actor "Tom Hanks" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:rating "6.7"^^xsd:float .
+
+ex:Movie_146 ex:title "Versatile 24hour standardization" ;
+    ex:year "2000"^^xsd:integer ;
+    ex:duration "84"^^xsd:integer ;
+    ex:genre "Romance" ;
+    ex:genre "Sci-Fi" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:rating "5.1"^^xsd:float .
+
+ex:Movie_147 ex:title "Visionary executive time-frame" ;
+    ex:year "2010"^^xsd:integer ;
+    ex:duration "96"^^xsd:integer ;
+    ex:genre "Drama" ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Nicole Kidman" ;
+    ex:rating "7.9"^^xsd:float .
+
+ex:Movie_148 ex:title "Down-sized optimizing encoding" ;
+    ex:year "1974"^^xsd:integer ;
+    ex:duration "219"^^xsd:integer ;
+    ex:genre "Drama" ;
+    ex:genre "Action" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Nicole Kidman" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:rating "5.3"^^xsd:float .
+
+ex:Movie_149 ex:title "Fundamental bottom-line function" ;
+    ex:year "2002"^^xsd:integer ;
+    ex:duration "220"^^xsd:integer ;
+    ex:genre "Action" ;
+    ex:genre "Thriller" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:actor "Brad Pitt" ;
+    ex:rating "4.1"^^xsd:float .
+
+ex:Movie_150 ex:title "Pre-emptive global utilization" ;
+    ex:year "1990"^^xsd:integer ;
+    ex:duration "112"^^xsd:integer ;
+    ex:genre "Comedy" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Brad Pitt" ;
+    ex:rating "6.8"^^xsd:float .
+
+ex:Movie_151 ex:title "Realigned even-keeled open architecture" ;
+    ex:year "2006"^^xsd:integer ;
+    ex:duration "130"^^xsd:integer ;
+    ex:genre "Adventure" ;
+    ex:genre "Drama" ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Tom Hanks" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:rating "7.2"^^xsd:float .
+
+ex:Movie_152 ex:title "Enterprise-wide real-time hierarchy" ;
+    ex:year "2006"^^xsd:integer ;
+    ex:duration "197"^^xsd:integer ;
+    ex:genre "Sci-Fi" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Tom Cruise" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:rating "8.3"^^xsd:float .
+
+ex:Movie_153 ex:title "Centralized responsive knowledgebase" ;
+    ex:year "1970"^^xsd:integer ;
+    ex:duration "87"^^xsd:integer ;
+    ex:genre "Comedy" ;
+    ex:genre "Romance" ;
+    ex:genre "Sci-Fi" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Tom Cruise" ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Johnny Depp" ;
+    ex:rating "7.3"^^xsd:float .
+
+ex:Movie_154 ex:title "Stand-alone dynamic projection" ;
+    ex:year "1993"^^xsd:integer ;
+    ex:duration "91"^^xsd:integer ;
+    ex:genre "Adventure" ;
+    ex:genre "Drama" ;
+    ex:genre "Action" ;
+    ex:actor "Nicole Kidman" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:actor "Johnny Depp" ;
+    ex:rating "5.8"^^xsd:float .
+
+ex:Movie_155 ex:title "Open-source executive matrices" ;
+    ex:year "2009"^^xsd:integer ;
+    ex:duration "146"^^xsd:integer ;
+    ex:genre "Romance" ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:actor "Nicole Kidman" ;
+    ex:rating "6.6"^^xsd:float .
+
+ex:Movie_156 ex:title "Front-line fresh-thinking service-desk" ;
+    ex:year "1961"^^xsd:integer ;
+    ex:duration "217"^^xsd:integer ;
+    ex:genre "Adventure" ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Tom Cruise" ;
+    ex:actor "Nicole Kidman" ;
+    ex:rating "5.8"^^xsd:float .
+
+ex:Movie_157 ex:title "Mandatory grid-enabled array" ;
+    ex:year "2012"^^xsd:integer ;
+    ex:duration "196"^^xsd:integer ;
+    ex:genre "Comedy" ;
+    ex:genre "Sci-Fi" ;
+    ex:genre "Action" ;
+    ex:actor "Tom Hanks" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:rating "4.5"^^xsd:float .
+
+ex:Movie_158 ex:title "Polarized non-volatile info-mediaries" ;
+    ex:year "2019"^^xsd:integer ;
+    ex:duration "223"^^xsd:integer ;
+    ex:genre "Sci-Fi" ;
+    ex:genre "Drama" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:rating "5.8"^^xsd:float .
+
+ex:Movie_159 ex:title "Proactive needs-based installation" ;
+    ex:year "2007"^^xsd:integer ;
+    ex:duration "233"^^xsd:integer ;
+    ex:genre "Sci-Fi" ;
+    ex:genre "Drama" ;
+    ex:genre "Action" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:actor "Tom Hanks" ;
+    ex:actor "Brad Pitt" ;
+    ex:rating "6.8"^^xsd:float .
+
+ex:Movie_160 ex:title "Open-source heuristic complexity" ;
+    ex:year "1997"^^xsd:integer ;
+    ex:duration "224"^^xsd:integer ;
+    ex:genre "Sci-Fi" ;
+    ex:actor "Tom Cruise" ;
+    ex:actor "Tom Hanks" ;
+    ex:actor "Johnny Depp" ;
+    ex:rating "5.1"^^xsd:float .
+
+ex:Movie_161 ex:title "Reduced tertiary application" ;
+    ex:year "2001"^^xsd:integer ;
+    ex:duration "97"^^xsd:integer ;
+    ex:genre "Adventure" ;
+    ex:genre "Sci-Fi" ;
+    ex:genre "Comedy" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Brad Pitt" ;
+    ex:rating "6.9"^^xsd:float .
+
+ex:Movie_162 ex:title "Innovative interactive moratorium" ;
+    ex:year "2011"^^xsd:integer ;
+    ex:duration "139"^^xsd:integer ;
+    ex:genre "Adventure" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:actor "Tom Cruise" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:actor "Nicole Kidman" ;
+    ex:rating "4.2"^^xsd:float .
+
+ex:Movie_163 ex:title "Synergized 4thgeneration hardware" ;
+    ex:year "2004"^^xsd:integer ;
+    ex:duration "237"^^xsd:integer ;
+    ex:genre "Sci-Fi" ;
+    ex:genre "Adventure" ;
+    ex:genre "Action" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:actor "Tom Cruise" ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Brad Pitt" ;
+    ex:rating "4.3"^^xsd:float .
+
+ex:Movie_164 ex:title "Cloned coherent approach" ;
+    ex:year "2025"^^xsd:integer ;
+    ex:duration "105"^^xsd:integer ;
+    ex:genre "Adventure" ;
+    ex:genre "Thriller" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:actor "Tom Cruise" ;
+    ex:rating "8.3"^^xsd:float .
+
+ex:Movie_165 ex:title "De-engineered maximized parallelism" ;
+    ex:year "1974"^^xsd:integer ;
+    ex:duration "207"^^xsd:integer ;
+    ex:genre "Drama" ;
+    ex:actor "Nicole Kidman" ;
+    ex:actor "Tom Cruise" ;
+    ex:rating "6.4"^^xsd:float .
+
+ex:Movie_166 ex:title "Innovative client-driven structure" ;
+    ex:year "1968"^^xsd:integer ;
+    ex:duration "188"^^xsd:integer ;
+    ex:genre "Comedy" ;
+    ex:actor "Tom Hanks" ;
+    ex:actor "Tom Cruise" ;
+    ex:actor "Julia Roberts" ;
+    ex:rating "6.7"^^xsd:float .
+
+ex:Movie_167 ex:title "Automated hybrid implementation" ;
+    ex:year "2011"^^xsd:integer ;
+    ex:duration "219"^^xsd:integer ;
+    ex:genre "Drama" ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:rating "6.2"^^xsd:float .
+
+ex:Movie_168 ex:title "Proactive maximized utilization" ;
+    ex:year "2014"^^xsd:integer ;
+    ex:duration "208"^^xsd:integer ;
+    ex:genre "Romance" ;
+    ex:genre "Adventure" ;
+    ex:actor "Tom Cruise" ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Julia Roberts" ;
+    ex:rating "7.3"^^xsd:float .
+
+ex:Movie_169 ex:title "Balanced grid-enabled portal" ;
+    ex:year "2016"^^xsd:integer ;
+    ex:duration "189"^^xsd:integer ;
+    ex:genre "Sci-Fi" ;
+    ex:genre "Action" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:actor "Tom Cruise" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Johnny Depp" ;
+    ex:rating "7.2"^^xsd:float .
+
+ex:Movie_170 ex:title "Front-line impactful intranet" ;
+    ex:year "2019"^^xsd:integer ;
+    ex:duration "133"^^xsd:integer ;
+    ex:genre "Romance" ;
+    ex:genre "Sci-Fi" ;
+    ex:genre "Drama" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:actor "Julia Roberts" ;
+    ex:rating "5.8"^^xsd:float .
+
+ex:Movie_171 ex:title "Extended zero administration analyzer" ;
+    ex:year "2003"^^xsd:integer ;
+    ex:duration "117"^^xsd:integer ;
+    ex:genre "Thriller" ;
+    ex:genre "Romance" ;
+    ex:actor "Nicole Kidman" ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Tom Cruise" ;
+    ex:rating "7.7"^^xsd:float .
+
+ex:Movie_172 ex:title "Polarized client-driven projection" ;
+    ex:year "1983"^^xsd:integer ;
+    ex:duration "188"^^xsd:integer ;
+    ex:genre "Action" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:actor "Nicole Kidman" ;
+    ex:rating "5.9"^^xsd:float .
+
+ex:Movie_173 ex:title "Reverse-engineered holistic matrices" ;
+    ex:year "1969"^^xsd:integer ;
+    ex:duration "114"^^xsd:integer ;
+    ex:genre "Thriller" ;
+    ex:genre "Comedy" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Nicole Kidman" ;
+    ex:rating "7.8"^^xsd:float .
+
+ex:Movie_174 ex:title "Balanced encompassing solution" ;
+    ex:year "2018"^^xsd:integer ;
+    ex:duration "108"^^xsd:integer ;
+    ex:genre "Thriller" ;
+    ex:genre "Drama" ;
+    ex:genre "Comedy" ;
+    ex:actor "Tom Hanks" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:rating "6.5"^^xsd:float .
+
+ex:Movie_175 ex:title "Synchronized exuding software" ;
+    ex:year "1978"^^xsd:integer ;
+    ex:duration "116"^^xsd:integer ;
+    ex:genre "Drama" ;
+    ex:genre "Thriller" ;
+    ex:genre "Adventure" ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:rating "5.5"^^xsd:float .
+
+ex:Movie_176 ex:title "Virtual mobile approach" ;
+    ex:year "1981"^^xsd:integer ;
+    ex:duration "228"^^xsd:integer ;
+    ex:genre "Adventure" ;
+    ex:genre "Comedy" ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Tom Cruise" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:rating "6.5"^^xsd:float .
+
+ex:Movie_177 ex:title "Innovative foreground leverage" ;
+    ex:year "2007"^^xsd:integer ;
+    ex:duration "202"^^xsd:integer ;
+    ex:genre "Drama" ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Julia Roberts" ;
+    ex:rating "4.9"^^xsd:float .
+
+ex:Movie_178 ex:title "Robust asynchronous knowledge user" ;
+    ex:year "1990"^^xsd:integer ;
+    ex:duration "107"^^xsd:integer ;
+    ex:genre "Adventure" ;
+    ex:genre "Comedy" ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Tom Hanks" ;
+    ex:actor "Tom Cruise" ;
+    ex:rating "4.5"^^xsd:float .
+
+ex:Movie_179 ex:title "Reactive solution-oriented open architecture" ;
+    ex:year "2023"^^xsd:integer ;
+    ex:duration "101"^^xsd:integer ;
+    ex:genre "Comedy" ;
+    ex:genre "Thriller" ;
+    ex:actor "Nicole Kidman" ;
+    ex:actor "Julia Roberts" ;
+    ex:rating "6.1"^^xsd:float .
+
+ex:Movie_180 ex:title "Fully-configurable bifurcated support" ;
+    ex:year "2005"^^xsd:integer ;
+    ex:duration "128"^^xsd:integer ;
+    ex:genre "Romance" ;
+    ex:genre "Action" ;
+    ex:genre "Thriller" ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:actor "Nicole Kidman" ;
+    ex:rating "5.1"^^xsd:float .
+
+ex:Movie_181 ex:title "Integrated static groupware" ;
+    ex:year "1980"^^xsd:integer ;
+    ex:duration "95"^^xsd:integer ;
+    ex:genre "Comedy" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:rating "8.1"^^xsd:float .
+
+ex:Movie_182 ex:title "Organic dedicated moderator" ;
+    ex:year "2017"^^xsd:integer ;
+    ex:duration "150"^^xsd:integer ;
+    ex:genre "Comedy" ;
+    ex:genre "Adventure" ;
+    ex:actor "Tom Hanks" ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:actor "Scarlett Johansson" ;
+    ex:rating "6.3"^^xsd:float .
+
+ex:Movie_183 ex:title "Reduced value-added knowledgebase" ;
+    ex:year "2023"^^xsd:integer ;
+    ex:duration "146"^^xsd:integer ;
+    ex:genre "Comedy" ;
+    ex:genre "Drama" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Tom Hanks" ;
+    ex:rating "5.5"^^xsd:float .
+
+ex:Movie_184 ex:title "Multi-lateral explicit emulation" ;
+    ex:year "2025"^^xsd:integer ;
+    ex:duration "189"^^xsd:integer ;
+    ex:genre "Action" ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:actor "Julia Roberts" ;
+    ex:rating "5.0"^^xsd:float .
+
+ex:Movie_185 ex:title "Profound high-level focus group" ;
+    ex:year "2023"^^xsd:integer ;
+    ex:duration "195"^^xsd:integer ;
+    ex:genre "Thriller" ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Nicole Kidman" ;
+    ex:rating "4.8"^^xsd:float .
+
+ex:Movie_186 ex:title "Fundamental systematic capacity" ;
+    ex:year "2017"^^xsd:integer ;
+    ex:duration "217"^^xsd:integer ;
+    ex:genre "Adventure" ;
+    ex:genre "Action" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Nicole Kidman" ;
+    ex:rating "6.8"^^xsd:float .
+
+ex:Movie_187 ex:title "Down-sized scalable function" ;
+    ex:year "2020"^^xsd:integer ;
+    ex:duration "85"^^xsd:integer ;
+    ex:genre "Sci-Fi" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:rating "5.9"^^xsd:float .
+
+ex:Movie_188 ex:title "Persistent asymmetric portal" ;
+    ex:year "1975"^^xsd:integer ;
+    ex:duration "135"^^xsd:integer ;
+    ex:genre "Adventure" ;
+    ex:genre "Drama" ;
+    ex:actor "Tom Cruise" ;
+    ex:actor "Tom Hanks" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:actor "Johnny Depp" ;
+    ex:rating "7.3"^^xsd:float .
+
+ex:Movie_189 ex:title "Distributed optimizing support" ;
+    ex:year "1998"^^xsd:integer ;
+    ex:duration "120"^^xsd:integer ;
+    ex:genre "Adventure" ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Tom Hanks" ;
+    ex:rating "4.0"^^xsd:float .
+
+ex:Movie_190 ex:title "Self-enabling exuding portal" ;
+    ex:year "2001"^^xsd:integer ;
+    ex:duration "214"^^xsd:integer ;
+    ex:genre "Romance" ;
+    ex:actor "Tom Cruise" ;
+    ex:actor "Julia Roberts" ;
+    ex:rating "8.2"^^xsd:float .
+
+ex:Movie_191 ex:title "Synergized tertiary policy" ;
+    ex:year "2009"^^xsd:integer ;
+    ex:duration "137"^^xsd:integer ;
+    ex:genre "Sci-Fi" ;
+    ex:genre "Romance" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:actor "Tom Cruise" ;
+    ex:actor "Nicole Kidman" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:rating "5.8"^^xsd:float .
+
+ex:Movie_192 ex:title "Visionary fault-tolerant system engine" ;
+    ex:year "2013"^^xsd:integer ;
+    ex:duration "206"^^xsd:integer ;
+    ex:genre "Adventure" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Nicole Kidman" ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Brad Pitt" ;
+    ex:rating "5.8"^^xsd:float .
+
+ex:Movie_193 ex:title "Open-source modular success" ;
+    ex:year "1985"^^xsd:integer ;
+    ex:duration "196"^^xsd:integer ;
+    ex:genre "Drama" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:rating "7.4"^^xsd:float .
+
+ex:Movie_194 ex:title "Inverse optimal model" ;
+    ex:year "2019"^^xsd:integer ;
+    ex:duration "131"^^xsd:integer ;
+    ex:genre "Action" ;
+    ex:genre "Thriller" ;
+    ex:genre "Drama" ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:actor "Tom Hanks" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:rating "7.3"^^xsd:float .
+
+ex:Movie_195 ex:title "Front-line 6thgeneration groupware" ;
+    ex:year "1995"^^xsd:integer ;
+    ex:duration "196"^^xsd:integer ;
+    ex:genre "Comedy" ;
+    ex:actor "Tom Hanks" ;
+    ex:actor "Nicole Kidman" ;
+    ex:rating "7.5"^^xsd:float .
+
+ex:Movie_196 ex:title "Multi-tiered dynamic software" ;
+    ex:year "2021"^^xsd:integer ;
+    ex:duration "132"^^xsd:integer ;
+    ex:genre "Adventure" ;
+    ex:genre "Comedy" ;
+    ex:genre "Sci-Fi" ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:rating "8.5"^^xsd:float .
+
+ex:Movie_197 ex:title "Open-architected eco-centric process improvement" ;
+    ex:year "2012"^^xsd:integer ;
+    ex:duration "89"^^xsd:integer ;
+    ex:genre "Action" ;
+    ex:genre "Sci-Fi" ;
+    ex:actor "Tom Hanks" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:actor "Brad Pitt" ;
+    ex:rating "5.0"^^xsd:float .
+
+ex:Movie_198 ex:title "Multi-channeled mission-critical capacity" ;
+    ex:year "2016"^^xsd:integer ;
+    ex:duration "143"^^xsd:integer ;
+    ex:genre "Adventure" ;
+    ex:genre "Sci-Fi" ;
+    ex:genre "Action" ;
+    ex:actor "Tom Cruise" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:rating "5.0"^^xsd:float .
+
+ex:Movie_199 ex:title "Distributed radical analyzer" ;
+    ex:year "2003"^^xsd:integer ;
+    ex:duration "194"^^xsd:integer ;
+    ex:genre "Sci-Fi" ;
+    ex:genre "Action" ;
+    ex:genre "Drama" ;
+    ex:actor "Nicole Kidman" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:actor "Julia Roberts" ;
+    ex:rating "7.0"^^xsd:float .
+
+ex:Movie_200 ex:title "Enterprise-wide composite implementation" ;
+    ex:year "2004"^^xsd:integer ;
+    ex:duration "101"^^xsd:integer ;
+    ex:genre "Action" ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Nicole Kidman" ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:rating "7.6"^^xsd:float .
+
+ex:Movie_201 ex:title "Operative user-facing instruction set" ;
+    ex:year "2009"^^xsd:integer ;
+    ex:duration "213"^^xsd:integer ;
+    ex:genre "Action" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:actor "Tom Cruise" ;
+    ex:rating "5.5"^^xsd:float .
+
+ex:Movie_202 ex:title "Open-source stable matrix" ;
+    ex:year "1988"^^xsd:integer ;
+    ex:duration "113"^^xsd:integer ;
+    ex:genre "Drama" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Tom Hanks" ;
+    ex:actor "Brad Pitt" ;
+    ex:rating "5.2"^^xsd:float .
+
+ex:Movie_203 ex:title "Virtual executive collaboration" ;
+    ex:year "2019"^^xsd:integer ;
+    ex:duration "114"^^xsd:integer ;
+    ex:genre "Drama" ;
+    ex:genre "Romance" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Nicole Kidman" ;
+    ex:rating "5.3"^^xsd:float .
+
+ex:Movie_204 ex:title "Reactive background conglomeration" ;
+    ex:year "2000"^^xsd:integer ;
+    ex:duration "204"^^xsd:integer ;
+    ex:genre "Drama" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Tom Cruise" ;
+    ex:rating "5.1"^^xsd:float .
+
+ex:Movie_205 ex:title "Configurable zero-defect monitoring" ;
+    ex:year "2025"^^xsd:integer ;
+    ex:duration "149"^^xsd:integer ;
+    ex:genre "Adventure" ;
+    ex:genre "Drama" ;
+    ex:genre "Comedy" ;
+    ex:actor "Tom Hanks" ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Brad Pitt" ;
+    ex:rating "7.0"^^xsd:float .
+
+ex:Movie_206 ex:title "Function-based zero tolerance intranet" ;
+    ex:year "2015"^^xsd:integer ;
+    ex:duration "193"^^xsd:integer ;
+    ex:genre "Action" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:actor "Tom Hanks" ;
+    ex:rating "6.0"^^xsd:float .
+
+ex:Movie_207 ex:title "Mandatory composite algorithm" ;
+    ex:year "2011"^^xsd:integer ;
+    ex:duration "128"^^xsd:integer ;
+    ex:genre "Comedy" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Tom Hanks" ;
+    ex:rating "6.6"^^xsd:float .
+
+ex:Movie_208 ex:title "Advanced intangible contingency" ;
+    ex:year "1991"^^xsd:integer ;
+    ex:duration "198"^^xsd:integer ;
+    ex:genre "Sci-Fi" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:actor "Scarlett Johansson" ;
+    ex:actor "Brad Pitt" ;
+    ex:rating "6.6"^^xsd:float .
+
+ex:Movie_209 ex:title "Cloned foreground superstructure" ;
+    ex:year "2008"^^xsd:integer ;
+    ex:duration "114"^^xsd:integer ;
+    ex:genre "Action" ;
+    ex:genre "Drama" ;
+    ex:genre "Thriller" ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:rating "4.8"^^xsd:float .
+
+ex:Movie_210 ex:title "Synergistic maximized task-force" ;
+    ex:year "2002"^^xsd:integer ;
+    ex:duration "106"^^xsd:integer ;
+    ex:genre "Drama" ;
+    ex:genre "Adventure" ;
+    ex:genre "Romance" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Tom Hanks" ;
+    ex:rating "8.0"^^xsd:float .
+
+ex:Movie_211 ex:title "Advanced discrete website" ;
+    ex:year "2005"^^xsd:integer ;
+    ex:duration "200"^^xsd:integer ;
+    ex:genre "Action" ;
+    ex:genre "Comedy" ;
+    ex:genre "Sci-Fi" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Tom Cruise" ;
+    ex:actor "Tom Hanks" ;
+    ex:rating "4.4"^^xsd:float .
+
+ex:Movie_212 ex:title "Innovative methodical circuit" ;
+    ex:year "2016"^^xsd:integer ;
+    ex:duration "121"^^xsd:integer ;
+    ex:genre "Drama" ;
+    ex:genre "Adventure" ;
+    ex:actor "Tom Hanks" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Nicole Kidman" ;
+    ex:actor "Johnny Depp" ;
+    ex:rating "7.6"^^xsd:float .
+
+ex:Movie_213 ex:title "Polarized local infrastructure" ;
+    ex:year "2000"^^xsd:integer ;
+    ex:duration "103"^^xsd:integer ;
+    ex:genre "Drama" ;
+    ex:genre "Comedy" ;
+    ex:genre "Thriller" ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:rating "5.1"^^xsd:float .
+
+ex:Movie_214 ex:title "Devolved tertiary help-desk" ;
+    ex:year "2000"^^xsd:integer ;
+    ex:duration "145"^^xsd:integer ;
+    ex:genre "Sci-Fi" ;
+    ex:genre "Action" ;
+    ex:genre "Adventure" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:actor "Tom Cruise" ;
+    ex:rating "5.9"^^xsd:float .
+
+ex:Movie_215 ex:title "Extended national monitoring" ;
+    ex:year "2023"^^xsd:integer ;
+    ex:duration "188"^^xsd:integer ;
+    ex:genre "Sci-Fi" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:actor "Tom Hanks" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:rating "7.5"^^xsd:float .
+
+ex:Movie_216 ex:title "Right-sized disintermediate concept" ;
+    ex:year "1970"^^xsd:integer ;
+    ex:duration "211"^^xsd:integer ;
+    ex:genre "Adventure" ;
+    ex:genre "Sci-Fi" ;
+    ex:actor "Tom Cruise" ;
+    ex:actor "Julia Roberts" ;
+    ex:rating "5.8"^^xsd:float .
+
+ex:Movie_217 ex:title "Robust directional algorithm" ;
+    ex:year "2021"^^xsd:integer ;
+    ex:duration "99"^^xsd:integer ;
+    ex:genre "Romance" ;
+    ex:genre "Thriller" ;
+    ex:genre "Drama" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Tom Hanks" ;
+    ex:actor "Nicole Kidman" ;
+    ex:actor "Brad Pitt" ;
+    ex:rating "8.3"^^xsd:float .
+
+ex:Movie_218 ex:title "Distributed optimal Local Area Network" ;
+    ex:year "2016"^^xsd:integer ;
+    ex:duration "218"^^xsd:integer ;
+    ex:genre "Thriller" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:actor "Julia Roberts" ;
+    ex:rating "7.7"^^xsd:float .
+
+ex:Movie_219 ex:title "Horizontal cohesive database" ;
+    ex:year "1984"^^xsd:integer ;
+    ex:duration "145"^^xsd:integer ;
+    ex:genre "Action" ;
+    ex:genre "Thriller" ;
+    ex:actor "Tom Cruise" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:actor "Julia Roberts" ;
+    ex:rating "5.9"^^xsd:float .
+
+ex:Movie_220 ex:title "Reactive eco-centric application" ;
+    ex:year "2022"^^xsd:integer ;
+    ex:duration "187"^^xsd:integer ;
+    ex:genre "Sci-Fi" ;
+    ex:genre "Action" ;
+    ex:actor "Nicole Kidman" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:actor "Tom Hanks" ;
+    ex:rating "5.7"^^xsd:float .
+
+ex:Movie_221 ex:title "Compatible hybrid secured line" ;
+    ex:year "1996"^^xsd:integer ;
+    ex:duration "223"^^xsd:integer ;
+    ex:genre "Sci-Fi" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:actor "Julia Roberts" ;
+    ex:rating "5.9"^^xsd:float .
+
+ex:Movie_222 ex:title "Distributed coherent architecture" ;
+    ex:year "2008"^^xsd:integer ;
+    ex:duration "100"^^xsd:integer ;
+    ex:genre "Thriller" ;
+    ex:genre "Action" ;
+    ex:genre "Comedy" ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:rating "6.4"^^xsd:float .
+
+ex:Movie_223 ex:title "Fully-configurable explicit hierarchy" ;
+    ex:year "2006"^^xsd:integer ;
+    ex:duration "233"^^xsd:integer ;
+    ex:genre "Adventure" ;
+    ex:genre "Sci-Fi" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Tom Cruise" ;
+    ex:rating "6.3"^^xsd:float .
+
+ex:Movie_224 ex:title "Customer-focused hybrid monitoring" ;
+    ex:year "2007"^^xsd:integer ;
+    ex:duration "86"^^xsd:integer ;
+    ex:genre "Action" ;
+    ex:genre "Romance" ;
+    ex:actor "Tom Cruise" ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Julia Roberts" ;
+    ex:rating "6.9"^^xsd:float .
+
+ex:Movie_225 ex:title "Pre-emptive non-volatile emulation" ;
+    ex:year "1979"^^xsd:integer ;
+    ex:duration "181"^^xsd:integer ;
+    ex:genre "Comedy" ;
+    ex:actor "Nicole Kidman" ;
+    ex:actor "Tom Cruise" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:actor "Julia Roberts" ;
+    ex:rating "6.4"^^xsd:float .
+
+ex:Movie_226 ex:title "Optional solution-oriented project" ;
+    ex:year "1991"^^xsd:integer ;
+    ex:duration "115"^^xsd:integer ;
+    ex:genre "Action" ;
+    ex:genre "Sci-Fi" ;
+    ex:genre "Comedy" ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:actor "Tom Hanks" ;
+    ex:rating "5.4"^^xsd:float .
+
+ex:Movie_227 ex:title "Versatile needs-based moderator" ;
+    ex:year "2002"^^xsd:integer ;
+    ex:duration "111"^^xsd:integer ;
+    ex:genre "Adventure" ;
+    ex:genre "Action" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Tom Hanks" ;
+    ex:actor "Tom Cruise" ;
+    ex:rating "5.2"^^xsd:float .
+
+ex:Movie_228 ex:title "Digitized 24hour throughput" ;
+    ex:year "1998"^^xsd:integer ;
+    ex:duration "206"^^xsd:integer ;
+    ex:genre "Drama" ;
+    ex:genre "Romance" ;
+    ex:genre "Adventure" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Tom Hanks" ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Brad Pitt" ;
+    ex:rating "8.2"^^xsd:float .
+
+ex:Movie_229 ex:title "Function-based multi-tasking firmware" ;
+    ex:year "2004"^^xsd:integer ;
+    ex:duration "187"^^xsd:integer ;
+    ex:genre "Comedy" ;
+    ex:genre "Sci-Fi" ;
+    ex:genre "Drama" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:actor "Tom Hanks" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:rating "6.9"^^xsd:float .
+
+ex:Movie_230 ex:title "Exclusive bottom-line framework" ;
+    ex:year "2025"^^xsd:integer ;
+    ex:duration "84"^^xsd:integer ;
+    ex:genre "Drama" ;
+    ex:genre "Comedy" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Nicole Kidman" ;
+    ex:rating "6.3"^^xsd:float .
+
+ex:Movie_231 ex:title "Multi-lateral 3rdgeneration data-warehouse" ;
+    ex:year "2020"^^xsd:integer ;
+    ex:duration "219"^^xsd:integer ;
+    ex:genre "Romance" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:actor "Nicole Kidman" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Johnny Depp" ;
+    ex:rating "7.1"^^xsd:float .
+
+ex:Movie_232 ex:title "Operative regional extranet" ;
+    ex:year "2022"^^xsd:integer ;
+    ex:duration "182"^^xsd:integer ;
+    ex:genre "Drama" ;
+    ex:genre "Action" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:actor "Scarlett Johansson" ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Nicole Kidman" ;
+    ex:rating "5.0"^^xsd:float .
+
+ex:Movie_233 ex:title "Configurable bottom-line secured line" ;
+    ex:year "1977"^^xsd:integer ;
+    ex:duration "117"^^xsd:integer ;
+    ex:genre "Sci-Fi" ;
+    ex:genre "Action" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:actor "Tom Hanks" ;
+    ex:rating "5.1"^^xsd:float .
+
+ex:Movie_234 ex:title "Reduced zero-defect forecast" ;
+    ex:year "1996"^^xsd:integer ;
+    ex:duration "188"^^xsd:integer ;
+    ex:genre "Romance" ;
+    ex:genre "Drama" ;
+    ex:genre "Sci-Fi" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:actor "Nicole Kidman" ;
+    ex:actor "Tom Cruise" ;
+    ex:rating "4.8"^^xsd:float .
+
+ex:Movie_235 ex:title "Inverse national solution" ;
+    ex:year "2015"^^xsd:integer ;
+    ex:duration "187"^^xsd:integer ;
+    ex:genre "Sci-Fi" ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:rating "6.4"^^xsd:float .
+
+ex:Movie_236 ex:title "Versatile solution-oriented utilization" ;
+    ex:year "1984"^^xsd:integer ;
+    ex:duration "239"^^xsd:integer ;
+    ex:genre "Action" ;
+    ex:genre "Comedy" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:rating "5.9"^^xsd:float .
+
+ex:Movie_237 ex:title "Profit-focused 24/7 service-desk" ;
+    ex:year "2010"^^xsd:integer ;
+    ex:duration "87"^^xsd:integer ;
+    ex:genre "Romance" ;
+    ex:genre "Action" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Brad Pitt" ;
+    ex:rating "4.3"^^xsd:float .
+
+ex:Movie_238 ex:title "Profit-focused web-enabled moratorium" ;
+    ex:year "2003"^^xsd:integer ;
+    ex:duration "238"^^xsd:integer ;
+    ex:genre "Sci-Fi" ;
+    ex:genre "Drama" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:rating "5.7"^^xsd:float .
+
+ex:Movie_239 ex:title "Multi-tiered holistic projection" ;
+    ex:year "1994"^^xsd:integer ;
+    ex:duration "99"^^xsd:integer ;
+    ex:genre "Romance" ;
+    ex:genre "Drama" ;
+    ex:genre "Comedy" ;
+    ex:actor "Tom Hanks" ;
+    ex:actor "Julia Roberts" ;
+    ex:rating "8.7"^^xsd:float .
+
+ex:Movie_240 ex:title "User-friendly national projection" ;
+    ex:year "1995"^^xsd:integer ;
+    ex:duration "130"^^xsd:integer ;
+    ex:genre "Action" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Brad Pitt" ;
+    ex:rating "6.1"^^xsd:float .
+
+ex:Movie_241 ex:title "Down-sized 4thgeneration middleware" ;
+    ex:year "2008"^^xsd:integer ;
+    ex:duration "234"^^xsd:integer ;
+    ex:genre "Drama" ;
+    ex:actor "Tom Cruise" ;
+    ex:actor "Nicole Kidman" ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:rating "5.4"^^xsd:float .
+
+ex:Movie_242 ex:title "Synergized executive capacity" ;
+    ex:year "2017"^^xsd:integer ;
+    ex:duration "236"^^xsd:integer ;
+    ex:genre "Action" ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Tom Cruise" ;
+    ex:actor "Nicole Kidman" ;
+    ex:rating "7.4"^^xsd:float .
+
+ex:Movie_243 ex:title "Stand-alone context-sensitive access" ;
+    ex:year "2022"^^xsd:integer ;
+    ex:duration "202"^^xsd:integer ;
+    ex:genre "Comedy" ;
+    ex:genre "Action" ;
+    ex:genre "Sci-Fi" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:rating "4.7"^^xsd:float .
+
+ex:Movie_244 ex:title "Streamlined discrete extranet" ;
+    ex:year "2006"^^xsd:integer ;
+    ex:duration "82"^^xsd:integer ;
+    ex:genre "Drama" ;
+    ex:genre "Thriller" ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Nicole Kidman" ;
+    ex:actor "Brad Pitt" ;
+    ex:rating "5.3"^^xsd:float .
+
+ex:Movie_245 ex:title "Upgradable 6thgeneration utilization" ;
+    ex:year "2001"^^xsd:integer ;
+    ex:duration "103"^^xsd:integer ;
+    ex:genre "Drama" ;
+    ex:genre "Sci-Fi" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:rating "7.2"^^xsd:float .
+
+ex:Movie_246 ex:title "Managed grid-enabled budgetary management" ;
+    ex:year "2023"^^xsd:integer ;
+    ex:duration "230"^^xsd:integer ;
+    ex:genre "Romance" ;
+    ex:actor "Tom Cruise" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:actor "Johnny Depp" ;
+    ex:rating "8.4"^^xsd:float .
+
+ex:Movie_247 ex:title "Synergized zero-defect archive" ;
+    ex:year "1993"^^xsd:integer ;
+    ex:duration "149"^^xsd:integer ;
+    ex:genre "Romance" ;
+    ex:actor "Tom Hanks" ;
+    ex:actor "Julia Roberts" ;
+    ex:rating "6.1"^^xsd:float .
+
+ex:Movie_248 ex:title "Right-sized grid-enabled firmware" ;
+    ex:year "2023"^^xsd:integer ;
+    ex:duration "186"^^xsd:integer ;
+    ex:genre "Comedy" ;
+    ex:genre "Drama" ;
+    ex:genre "Adventure" ;
+    ex:actor "Nicole Kidman" ;
+    ex:actor "Tom Cruise" ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Julia Roberts" ;
+    ex:rating "5.8"^^xsd:float .
+
+ex:Movie_249 ex:title "Cloned zero-defect emulation" ;
+    ex:year "2002"^^xsd:integer ;
+    ex:duration "133"^^xsd:integer ;
+    ex:genre "Thriller" ;
+    ex:genre "Drama" ;
+    ex:genre "Comedy" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Nicole Kidman" ;
+    ex:rating "4.3"^^xsd:float .
+
+ex:Movie_250 ex:title "Object-based non-volatile moratorium" ;
+    ex:year "1986"^^xsd:integer ;
+    ex:duration "120"^^xsd:integer ;
+    ex:genre "Action" ;
+    ex:genre "Sci-Fi" ;
+    ex:genre "Comedy" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:actor "Tom Hanks" ;
+    ex:actor "Nicole Kidman" ;
+    ex:actor "Julia Roberts" ;
+    ex:rating "5.6"^^xsd:float .
+
+ex:Movie_251 ex:title "Horizontal bi-directional projection" ;
+    ex:year "2017"^^xsd:integer ;
+    ex:duration "148"^^xsd:integer ;
+    ex:genre "Comedy" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Nicole Kidman" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:rating "7.8"^^xsd:float .
+
+ex:Movie_252 ex:title "Configurable content-based product" ;
+    ex:year "1973"^^xsd:integer ;
+    ex:duration "135"^^xsd:integer ;
+    ex:genre "Thriller" ;
+    ex:genre "Drama" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:actor "Nicole Kidman" ;
+    ex:actor "Julia Roberts" ;
+    ex:rating "5.0"^^xsd:float .
+
+ex:Movie_253 ex:title "Programmable composite Graphical User Interface" ;
+    ex:year "2024"^^xsd:integer ;
+    ex:duration "147"^^xsd:integer ;
+    ex:genre "Action" ;
+    ex:genre "Sci-Fi" ;
+    ex:genre "Comedy" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:actor "Tom Hanks" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:actor "Johnny Depp" ;
+    ex:rating "4.6"^^xsd:float .
+
+ex:Movie_254 ex:title "Right-sized multimedia secured line" ;
+    ex:year "2005"^^xsd:integer ;
+    ex:duration "182"^^xsd:integer ;
+    ex:genre "Comedy" ;
+    ex:genre "Drama" ;
+    ex:actor "Tom Hanks" ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:rating "5.1"^^xsd:float .
+
+ex:Movie_255 ex:title "Focused background structure" ;
+    ex:year "1985"^^xsd:integer ;
+    ex:duration "240"^^xsd:integer ;
+    ex:genre "Comedy" ;
+    ex:genre "Thriller" ;
+    ex:actor "Nicole Kidman" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Johnny Depp" ;
+    ex:rating "5.2"^^xsd:float .
+
+ex:Movie_256 ex:title "Seamless 6thgeneration core" ;
+    ex:year "1991"^^xsd:integer ;
+    ex:duration "139"^^xsd:integer ;
+    ex:genre "Adventure" ;
+    ex:genre "Sci-Fi" ;
+    ex:genre "Action" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:actor "Scarlett Johansson" ;
+    ex:actor "Tom Cruise" ;
+    ex:rating "4.9"^^xsd:float .
+
+ex:Movie_257 ex:title "Reverse-engineered systemic function" ;
+    ex:year "1993"^^xsd:integer ;
+    ex:duration "220"^^xsd:integer ;
+    ex:genre "Drama" ;
+    ex:genre "Romance" ;
+    ex:genre "Adventure" ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Tom Hanks" ;
+    ex:actor "Nicole Kidman" ;
+    ex:rating "8.2"^^xsd:float .
+
+ex:Movie_258 ex:title "Reactive asymmetric contingency" ;
+    ex:year "1985"^^xsd:integer ;
+    ex:duration "130"^^xsd:integer ;
+    ex:genre "Drama" ;
+    ex:genre "Sci-Fi" ;
+    ex:genre "Romance" ;
+    ex:actor "Tom Cruise" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Tom Hanks" ;
+    ex:rating "4.2"^^xsd:float .
+
+ex:Movie_259 ex:title "Optimized background contingency" ;
+    ex:year "2011"^^xsd:integer ;
+    ex:duration "198"^^xsd:integer ;
+    ex:genre "Thriller" ;
+    ex:genre "Comedy" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:actor "Tom Hanks" ;
+    ex:rating "8.2"^^xsd:float .
+
+ex:Movie_260 ex:title "Reduced analyzing matrices" ;
+    ex:year "2014"^^xsd:integer ;
+    ex:duration "202"^^xsd:integer ;
+    ex:genre "Adventure" ;
+    ex:genre "Drama" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:actor "Johnny Depp" ;
+    ex:rating "4.2"^^xsd:float .
+
+ex:Movie_261 ex:title "Cross-platform incremental Internet solution" ;
+    ex:year "2016"^^xsd:integer ;
+    ex:duration "108"^^xsd:integer ;
+    ex:genre "Comedy" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Tom Hanks" ;
+    ex:rating "7.3"^^xsd:float .
+
+ex:Movie_262 ex:title "Expanded content-based task-force" ;
+    ex:year "2012"^^xsd:integer ;
+    ex:duration "222"^^xsd:integer ;
+    ex:genre "Thriller" ;
+    ex:actor "Nicole Kidman" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Johnny Depp" ;
+    ex:rating "7.0"^^xsd:float .
+
+ex:Movie_263 ex:title "Advanced contextually-based budgetary management" ;
+    ex:year "1973"^^xsd:integer ;
+    ex:duration "201"^^xsd:integer ;
+    ex:genre "Drama" ;
+    ex:genre "Thriller" ;
+    ex:genre "Romance" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:actor "Nicole Kidman" ;
+    ex:rating "4.3"^^xsd:float .
+
+ex:Movie_264 ex:title "Optimized solution-oriented focus group" ;
+    ex:year "2001"^^xsd:integer ;
+    ex:duration "205"^^xsd:integer ;
+    ex:genre "Action" ;
+    ex:genre "Thriller" ;
+    ex:actor "Tom Hanks" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Julia Roberts" ;
+    ex:rating "4.8"^^xsd:float .
+
+ex:Movie_265 ex:title "Innovative incremental time-frame" ;
+    ex:year "1996"^^xsd:integer ;
+    ex:duration "89"^^xsd:integer ;
+    ex:genre "Adventure" ;
+    ex:actor "Tom Cruise" ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:actor "Tom Hanks" ;
+    ex:rating "5.0"^^xsd:float .
+
+ex:Movie_266 ex:title "Balanced contextually-based archive" ;
+    ex:year "2006"^^xsd:integer ;
+    ex:duration "210"^^xsd:integer ;
+    ex:genre "Comedy" ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Brad Pitt" ;
+    ex:rating "7.0"^^xsd:float .
+
+ex:Movie_267 ex:title "Compatible foreground open architecture" ;
+    ex:year "1985"^^xsd:integer ;
+    ex:duration "93"^^xsd:integer ;
+    ex:genre "Sci-Fi" ;
+    ex:genre "Action" ;
+    ex:genre "Thriller" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:rating "4.1"^^xsd:float .
+
+ex:Movie_268 ex:title "Vision-oriented stable middleware" ;
+    ex:year "1994"^^xsd:integer ;
+    ex:duration "130"^^xsd:integer ;
+    ex:genre "Action" ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Nicole Kidman" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:rating "4.2"^^xsd:float .
+
+ex:Movie_269 ex:title "Enhanced systematic core" ;
+    ex:year "1986"^^xsd:integer ;
+    ex:duration "94"^^xsd:integer ;
+    ex:genre "Romance" ;
+    ex:genre "Action" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Tom Cruise" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:rating "6.0"^^xsd:float .
+
+ex:Movie_270 ex:title "Public-key homogeneous contingency" ;
+    ex:year "1988"^^xsd:integer ;
+    ex:duration "141"^^xsd:integer ;
+    ex:genre "Drama" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Nicole Kidman" ;
+    ex:rating "6.7"^^xsd:float .
+
+ex:Movie_271 ex:title "Digitized mission-critical website" ;
+    ex:year "2010"^^xsd:integer ;
+    ex:duration "112"^^xsd:integer ;
+    ex:genre "Action" ;
+    ex:actor "Nicole Kidman" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Johnny Depp" ;
+    ex:rating "5.9"^^xsd:float .
+
+ex:Movie_272 ex:title "Programmable real-time system engine" ;
+    ex:year "2024"^^xsd:integer ;
+    ex:duration "235"^^xsd:integer ;
+    ex:genre "Romance" ;
+    ex:genre "Drama" ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:actor "Nicole Kidman" ;
+    ex:rating "6.9"^^xsd:float .
+
+ex:Movie_273 ex:title "Multi-channeled eco-centric model" ;
+    ex:year "1988"^^xsd:integer ;
+    ex:duration "222"^^xsd:integer ;
+    ex:genre "Sci-Fi" ;
+    ex:actor "Nicole Kidman" ;
+    ex:actor "Tom Cruise" ;
+    ex:actor "Johnny Depp" ;
+    ex:rating "4.9"^^xsd:float .
+
+ex:Movie_274 ex:title "Programmable interactive methodology" ;
+    ex:year "2007"^^xsd:integer ;
+    ex:duration "135"^^xsd:integer ;
+    ex:genre "Comedy" ;
+    ex:genre "Adventure" ;
+    ex:genre "Drama" ;
+    ex:actor "Tom Hanks" ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Tom Cruise" ;
+    ex:rating "4.3"^^xsd:float .
+
+ex:Movie_275 ex:title "Inverse explicit customer loyalty" ;
+    ex:year "2020"^^xsd:integer ;
+    ex:duration "183"^^xsd:integer ;
+    ex:genre "Adventure" ;
+    ex:genre "Sci-Fi" ;
+    ex:genre "Action" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:actor "Tom Cruise" ;
+    ex:rating "7.9"^^xsd:float .
+
+ex:Movie_276 ex:title "Expanded clear-thinking function" ;
+    ex:year "1987"^^xsd:integer ;
+    ex:duration "192"^^xsd:integer ;
+    ex:genre "Sci-Fi" ;
+    ex:genre "Comedy" ;
+    ex:actor "Tom Hanks" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:actor "Johnny Depp" ;
+    ex:rating "7.8"^^xsd:float .
+
+ex:Movie_277 ex:title "Virtual neutral parallelism" ;
+    ex:year "2012"^^xsd:integer ;
+    ex:duration "129"^^xsd:integer ;
+    ex:genre "Adventure" ;
+    ex:genre "Comedy" ;
+    ex:genre "Action" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:rating "6.0"^^xsd:float .
+
+ex:Movie_278 ex:title "Distributed systematic complexity" ;
+    ex:year "1988"^^xsd:integer ;
+    ex:duration "231"^^xsd:integer ;
+    ex:genre "Drama" ;
+    ex:genre "Adventure" ;
+    ex:genre "Action" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:actor "Tom Cruise" ;
+    ex:rating "7.8"^^xsd:float .
+
+ex:Movie_279 ex:title "Digitized responsive capacity" ;
+    ex:year "2025"^^xsd:integer ;
+    ex:duration "206"^^xsd:integer ;
+    ex:genre "Adventure" ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Tom Hanks" ;
+    ex:rating "6.2"^^xsd:float .
+
+ex:Movie_280 ex:title "Up-sized attitude-oriented open system" ;
+    ex:year "2001"^^xsd:integer ;
+    ex:duration "143"^^xsd:integer ;
+    ex:genre "Drama" ;
+    ex:actor "Nicole Kidman" ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:rating "4.4"^^xsd:float .
+
+ex:Movie_281 ex:title "Universal asynchronous Local Area Network" ;
+    ex:year "1970"^^xsd:integer ;
+    ex:duration "205"^^xsd:integer ;
+    ex:genre "Comedy" ;
+    ex:genre "Action" ;
+    ex:genre "Adventure" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:actor "Julia Roberts" ;
+    ex:rating "4.9"^^xsd:float .
+
+ex:Movie_282 ex:title "Ergonomic non-volatile Local Area Network" ;
+    ex:year "2010"^^xsd:integer ;
+    ex:duration "101"^^xsd:integer ;
+    ex:genre "Adventure" ;
+    ex:genre "Action" ;
+    ex:genre "Sci-Fi" ;
+    ex:actor "Tom Cruise" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:rating "7.3"^^xsd:float .
+
+ex:Movie_283 ex:title "Managed analyzing budgetary management" ;
+    ex:year "1990"^^xsd:integer ;
+    ex:duration "81"^^xsd:integer ;
+    ex:genre "Romance" ;
+    ex:genre "Drama" ;
+    ex:genre "Adventure" ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Nicole Kidman" ;
+    ex:actor "Brad Pitt" ;
+    ex:rating "5.8"^^xsd:float .
+
+ex:Movie_284 ex:title "Innovative scalable Internet solution" ;
+    ex:year "2009"^^xsd:integer ;
+    ex:duration "222"^^xsd:integer ;
+    ex:genre "Action" ;
+    ex:genre "Comedy" ;
+    ex:genre "Romance" ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:actor "Tom Hanks" ;
+    ex:rating "7.7"^^xsd:float .
+
+ex:Movie_285 ex:title "De-engineered tangible strategy" ;
+    ex:year "2021"^^xsd:integer ;
+    ex:duration "81"^^xsd:integer ;
+    ex:genre "Sci-Fi" ;
+    ex:genre "Adventure" ;
+    ex:actor "Tom Hanks" ;
+    ex:actor "Tom Cruise" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:rating "5.7"^^xsd:float .
+
+ex:Movie_286 ex:title "Proactive national installation" ;
+    ex:year "2001"^^xsd:integer ;
+    ex:duration "105"^^xsd:integer ;
+    ex:genre "Drama" ;
+    ex:genre "Action" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:rating "4.8"^^xsd:float .
+
+ex:Movie_287 ex:title "Fully-configurable demand-driven installation" ;
+    ex:year "2025"^^xsd:integer ;
+    ex:duration "98"^^xsd:integer ;
+    ex:genre "Drama" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:rating "5.1"^^xsd:float .
+
+ex:Movie_288 ex:title "User-friendly discrete budgetary management" ;
+    ex:year "1973"^^xsd:integer ;
+    ex:duration "104"^^xsd:integer ;
+    ex:genre "Comedy" ;
+    ex:genre "Adventure" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Tom Cruise" ;
+    ex:rating "6.2"^^xsd:float .
+
+ex:Movie_289 ex:title "Fundamental national framework" ;
+    ex:year "1998"^^xsd:integer ;
+    ex:duration "119"^^xsd:integer ;
+    ex:genre "Sci-Fi" ;
+    ex:genre "Adventure" ;
+    ex:genre "Comedy" ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Tom Cruise" ;
+    ex:rating "4.5"^^xsd:float .
+
+ex:Movie_290 ex:title "Face-to-face national policy" ;
+    ex:year "1996"^^xsd:integer ;
+    ex:duration "194"^^xsd:integer ;
+    ex:genre "Adventure" ;
+    ex:actor "Nicole Kidman" ;
+    ex:actor "Tom Cruise" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:rating "6.5"^^xsd:float .
+
+ex:Movie_291 ex:title "Exclusive systemic migration" ;
+    ex:year "2025"^^xsd:integer ;
+    ex:duration "188"^^xsd:integer ;
+    ex:genre "Comedy" ;
+    ex:genre "Adventure" ;
+    ex:genre "Sci-Fi" ;
+    ex:actor "Tom Cruise" ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:rating "4.1"^^xsd:float .
+
+ex:Movie_292 ex:title "Horizontal asymmetric circuit" ;
+    ex:year "1997"^^xsd:integer ;
+    ex:duration "92"^^xsd:integer ;
+    ex:genre "Adventure" ;
+    ex:genre "Romance" ;
+    ex:genre "Thriller" ;
+    ex:actor "Nicole Kidman" ;
+    ex:actor "Tom Cruise" ;
+    ex:actor "Brad Pitt" ;
+    ex:rating "7.2"^^xsd:float .
+
+ex:Movie_293 ex:title "Up-sized intermediate complexity" ;
+    ex:year "2003"^^xsd:integer ;
+    ex:duration "240"^^xsd:integer ;
+    ex:genre "Sci-Fi" ;
+    ex:genre "Drama" ;
+    ex:genre "Thriller" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:actor "Nicole Kidman" ;
+    ex:rating "7.9"^^xsd:float .
+
+ex:Movie_294 ex:title "Re-contextualized real-time customer loyalty" ;
+    ex:year "2023"^^xsd:integer ;
+    ex:duration "204"^^xsd:integer ;
+    ex:genre "Action" ;
+    ex:genre "Comedy" ;
+    ex:genre "Adventure" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Tom Cruise" ;
+    ex:actor "Brad Pitt" ;
+    ex:rating "7.6"^^xsd:float .
+
+ex:Movie_295 ex:title "Right-sized object-oriented functionalities" ;
+    ex:year "1975"^^xsd:integer ;
+    ex:duration "128"^^xsd:integer ;
+    ex:genre "Drama" ;
+    ex:genre "Comedy" ;
+    ex:genre "Sci-Fi" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:actor "Nicole Kidman" ;
+    ex:actor "Tom Hanks" ;
+    ex:actor "Tom Cruise" ;
+    ex:rating "5.9"^^xsd:float .
+
+ex:Movie_296 ex:title "Business-focused holistic matrices" ;
+    ex:year "1983"^^xsd:integer ;
+    ex:duration "139"^^xsd:integer ;
+    ex:genre "Comedy" ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:rating "6.7"^^xsd:float .
+
+ex:Movie_297 ex:title "Profit-focused coherent utilization" ;
+    ex:year "2021"^^xsd:integer ;
+    ex:duration "145"^^xsd:integer ;
+    ex:genre "Comedy" ;
+    ex:genre "Thriller" ;
+    ex:genre "Romance" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Brad Pitt" ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:rating "6.8"^^xsd:float .
+
+ex:Movie_298 ex:title "Business-focused actuating moderator" ;
+    ex:year "2011"^^xsd:integer ;
+    ex:duration "222"^^xsd:integer ;
+    ex:genre "Action" ;
+    ex:genre "Adventure" ;
+    ex:genre "Romance" ;
+    ex:actor "Julia Roberts" ;
+    ex:actor "Tom Cruise" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:rating "4.1"^^xsd:float .
+
+ex:Movie_299 ex:title "Public-key maximized budgetary management" ;
+    ex:year "1981"^^xsd:integer ;
+    ex:duration "206"^^xsd:integer ;
+    ex:genre "Comedy" ;
+    ex:genre "Action" ;
+    ex:actor "Johnny Depp" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:actor "Tom Hanks" ;
+    ex:actor "Tom Cruise" ;
+    ex:rating "7.0"^^xsd:float .
+
+ex:Movie_300 ex:title "Integrated logistical moderator" ;
+    ex:year "2001"^^xsd:integer ;
+    ex:duration "192"^^xsd:integer ;
+    ex:genre "Thriller" ;
+    ex:genre "Action" ;
+    ex:actor "Robert Downey Jr." ;
+    ex:actor "Leonardo DiCaprio" ;
+    ex:actor "Scarlett Johansson" ;
+    ex:actor "Brad Pitt" ;
+    ex:rating "5.3"^^xsd:float .
