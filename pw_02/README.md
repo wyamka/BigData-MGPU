@@ -364,6 +364,12 @@ print("[ПОЯСНЕНИЕ]: RDF-граф описывает связи межд
 
 ![Проверка](https://raw.githubusercontent.com/wyamka/BigData-MGPU/main/pw_02/screenshots/Проверка.png)
 
+![mongoDB up](https://raw.githubusercontent.com/wyamka/BigData-MGPU/main/pw_02/screenshots/mongoDB%20up.png)
+
+![Movies в Mongo](https://raw.githubusercontent.com/wyamka/BigData-MGPU/main/pw_02/screenshots/Movies%20в%20Mongo.png)
+
+![Cassandra up](https://raw.githubusercontent.com/wyamka/BigData-MGPU/main/pw_02/screenshots/Cassandra%20up.png)
+
 **Действие в GraphDB:**
 1. Открыт `http://localhost:7200`.
 2. Создан репозиторий `movies_repo`.
