@@ -36,9 +36,6 @@ graph TD
 
     classDef db fill:#f9f,stroke:#333,stroke-width:2px;
     class Mongo,Cass,Graph db;
-
-    classDef analytics fill:#e6f7ff,stroke:#1890ff,stroke-width:2px;
-    class BI analytics;
 ```
 
 ### Технологический стек
