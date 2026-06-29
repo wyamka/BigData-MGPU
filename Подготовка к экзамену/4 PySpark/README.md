@@ -7,8 +7,6 @@
 
 ## Источник данных: дата-сет https://drive.google.com/drive/folders/1QiHoIft-v2BOm4Q-xgfR7cvj9kVTHYOc?usp=sharing 
 
-[Подробнее об изменении dataset'a](./Dataset)
-
 Вес dataset'a, использованного в работе - 197 MB
 
 ## Технические характеристики:
@@ -34,18 +32,21 @@ JupyterLab
    start-yarn.sh
    jps
    ```
+2) Зайти на http://localhost:9870/ -> утилиты -> browse the file system
 
-2) Создание директории для работы, загрузка данных в HDFS
+Проверить, что запущено и работает
+
+3) Создание директории для работы, загрузка данных в HDFS
 ```bash
-   hdfs dfs -mkdir -p /user/hadoop/task1
-   hdfs dfs -mkdir -p /user/hadoop/task1/input
-   sudo cp /home/devops/Downloads/retail_data_new.csv /tmp/
-   sudo chmod 644 /tmp/retail_data_new.csv
-   hdfs dfs -put /tmp/retail_data_new.csv /user/hadoop/task1/input
-   hdfs dfs -ls -R /user/hadoop/task1
+   hdfs dfs -mkdir -p /user/hadoop/task11
+   hdfs dfs -mkdir -p /user/hadoop/task11/input
+   sudo cp /home/devops/Downloads/brooklyn_sales_map.csv /tmp/
+   sudo chmod 644 /tmp/brooklyn_sales_map.csv
+   hdfs dfs -put /tmp/brooklyn_sales_map.csv /user/hadoop/task11/input
+   hdfs dfs -ls -R /user/hadoop/task11
 ```
-3. Работа с кодом в JupyterLab
-4. Создание директории для вывода результатов работы и предоставление прав
+4) Работа с кодом в JupyterLab
+5) Создание директории для вывода результатов работы и предоставление прав
 ```bash
     hdfs dfs -mkdir -p /user/hadoop/task1/output
     hdfs dfs -chmod -R 777 /user/hadoop/task1
