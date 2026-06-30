@@ -38,14 +38,18 @@ JupyterLab
 
 3) Создание директории для работы, загрузка данных в HDFS
 ```bash
-   hdfs dfs -mkdir -p /user/hadoop/task11
-   hdfs dfs -mkdir -p /user/hadoop/task11/input
+   hdfs dfs -mkdir -p /user/hadoop/task1
+   hdfs dfs -mkdir -p /user/hadoop/task1/input
    sudo cp /home/devops/Downloads/brooklyn_sales_map.csv /tmp/
    sudo chmod 644 /tmp/brooklyn_sales_map.csv
-   hdfs dfs -put /tmp/brooklyn_sales_map.csv /user/hadoop/task11/input
-   hdfs dfs -ls -R /user/hadoop/task11
+   hdfs dfs -put /tmp/brooklyn_sales_map.csv /user/hadoop/task1/input
+   hdfs dfs -ls -R /user/hadoop/task1
 ```
 4) Работа с кодом в JupyterLab
+
+
+// В данной работе не применяется, однако опционально возможно:
+
 5) Создание директории для вывода результатов работы и предоставление прав
 ```bash
     hdfs dfs -mkdir -p /user/hadoop/task1/output
